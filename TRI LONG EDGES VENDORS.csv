@@ -1,0 +1,3295 @@
+A,B,EVENT_COUNT,ID1,ID2
+0,1,37120,Paper RGP,Paper RM1
+0,2,23,Paper RGP,In-house Development RNA
+0,3,34,Paper RGP,Paper RXH
+0,4,212,Paper RGP,Across Health 
+0,5,45,Paper RGP,Intersystems
+0,6,1832,Paper RGP,DXC Technology
+0,7,22,Paper RGP,Paper RXF
+0,8,1406,Paper RGP,Kainos
+0,9,481,Paper RGP,Multiple RC9
+0,10,14,Paper RGP,Paper RCD
+0,11,46,Paper RGP,Viper
+0,13,10,Paper RGP,In-house Development RRK
+0,14,20,Paper RGP,In-house Development RJF
+0,15,119,Paper RGP,Teleologic
+0,16,111,Paper RGP,Graphnet
+0,17,25,Paper RGP,In-house Development RCB
+0,18,129,Paper RGP,Multiple RAN
+0,19,11,Paper RGP,Paper RXW
+0,20,1398,Paper RGP,Cerner
+0,21,2,Paper RGP,In-house Development RET
+0,22,21,Paper RGP,Multiple RWP
+0,23,68,Paper RGP,Cambio Healthcare Systems
+0,24,7,Paper RGP,CGI
+0,25,20,Paper RGP,Paper RW6
+0,26,11,Paper RGP,Paper RBT
+0,27,24,Paper RGP,TPP
+0,28,16,Paper RGP,Paper RTF
+0,29,156,Paper RGP,Paper RDE
+0,30,50,Paper RGP,Paper RWG
+0,31,19,Paper RGP,Paper RLT
+0,32,61,Paper RGP,Multiple RX1
+0,33,129,Paper RGP,Paper RHQ
+0,34,4,Paper RGP,Silverlink Software
+0,35,23,Paper RGP,Paper RRJ
+0,36,1,Paper RGP,Paper RMC
+0,37,10,Paper RGP,Fortrus
+0,38,48,Paper RGP,Multiple R1K
+0,39,16,Paper RGP,Paper RTK
+0,40,12,Paper RGP,Paper RXR
+0,41,14,Paper RGP,Multiple RQ6
+0,42,5,Paper RGP,Paper RPC
+0,43,19,Paper RGP,Paper RA2
+0,44,356,Paper RGP,System C
+0,45,57,Paper RGP,IMS Maxims
+0,46,10,Paper RGP,In-house Development RBV
+0,47,14,Paper RGP,In-house Development RL4
+0,48,28,Paper RGP,In-house Development RR1
+0,49,49,Paper RGP,Paper RN7
+0,50,18,Paper RGP,Meditech
+0,51,39,Paper RGP,Multiple R0A
+0,52,7,Paper RGP,Multiple RBK
+0,53,23,Paper RGP,In-house Development RJL
+0,54,24,Paper RGP,In-house Development RAS
+0,55,74,Paper RGP,In-house Development RPY
+0,56,7,Paper RGP,Multiple RXN
+0,57,49,Paper RGP,Paper RYR
+0,58,214,Paper RGP,Paper RCX
+0,59,31,Paper RGP,Paper RP4
+0,60,146,Paper RGP,Paper RF4
+0,61,3085,Paper RGP,Epic Systems
+0,62,11,Paper RGP,Paper RNL
+0,63,14,Paper RGP,Paper RH8
+0,64,36,Paper RGP,Paper RDU
+0,65,1,Paper RGP,Paper RJN
+0,66,15,Paper RGP,Paper RK9
+0,67,3,Paper RGP,Multiple REM
+0,68,31,Paper RGP,In-house Development RR8
+0,69,15,Paper RGP,Multiple RA9
+0,70,30,Paper RGP,EMIS Health
+0,71,138,Paper RGP,Multiple RGN
+0,72,88,Paper RGP,Multiple RAJ
+0,73,73,Paper RGP,Paper RC1
+0,74,29,Paper RGP,Paper RPA
+0,75,92,Paper RGP,Paper RWD
+0,76,88,Paper RGP,Paper RWE
+0,77,44,Paper RGP,Paper RAP
+0,78,31,Paper RGP,Paper RP5
+0,79,185,Paper RGP,Allscripts
+0,80,22,Paper RGP,Paper RTR
+0,81,37,Paper RGP,In-house Development RN5
+0,82,60,Paper RGP,Advanced
+1,2,28,Paper RM1,In-house Development RNA
+1,3,154,Paper RM1,Paper RXH
+1,4,596,Paper RM1,Across Health 
+1,5,190,Paper RM1,Intersystems
+1,6,5396,Paper RM1,DXC Technology
+1,7,32,Paper RM1,Paper RXF
+1,8,7633,Paper RM1,Kainos
+1,9,540,Paper RM1,Multiple RC9
+1,10,38,Paper RM1,Paper RCD
+1,11,167,Paper RM1,Viper
+1,13,122,Paper RM1,In-house Development RRK
+1,14,29,Paper RM1,In-house Development RJF
+1,15,277,Paper RM1,Teleologic
+1,16,445,Paper RM1,Graphnet
+1,17,119,Paper RM1,In-house Development RCB
+1,18,343,Paper RM1,Multiple RAN
+1,19,55,Paper RM1,Paper RXW
+1,20,10651,Paper RM1,Cerner
+1,21,16,Paper RM1,In-house Development RET
+1,22,86,Paper RM1,Multiple RWP
+1,23,197,Paper RM1,Cambio Healthcare Systems
+1,24,38,Paper RM1,CGI
+1,25,52,Paper RM1,Paper RW6
+1,26,23,Paper RM1,Paper RBT
+1,27,41,Paper RM1,TPP
+1,28,33,Paper RM1,Paper RTF
+1,29,520,Paper RM1,Paper RDE
+1,30,158,Paper RM1,Paper RWG
+1,31,37,Paper RM1,Paper RLT
+1,32,294,Paper RM1,Multiple RX1
+1,33,359,Paper RM1,Paper RHQ
+1,34,9,Paper RM1,Silverlink Software
+1,35,31,Paper RM1,Paper RRJ
+1,36,20,Paper RM1,Paper RMC
+1,37,71,Paper RM1,Fortrus
+1,38,192,Paper RM1,Multiple R1K
+1,39,85,Paper RM1,Paper RTK
+1,40,32,Paper RM1,Paper RXR
+1,41,64,Paper RM1,Multiple RQ6
+1,42,39,Paper RM1,Paper RPC
+1,43,56,Paper RM1,Paper RA2
+1,44,919,Paper RM1,System C
+1,45,218,Paper RM1,IMS Maxims
+1,46,37,Paper RM1,In-house Development RBV
+1,47,36,Paper RM1,In-house Development RL4
+1,48,59,Paper RM1,In-house Development RR1
+1,49,87,Paper RM1,Paper RN7
+1,50,82,Paper RM1,Meditech
+1,51,92,Paper RM1,Multiple R0A
+1,52,13,Paper RM1,Multiple RBK
+1,53,111,Paper RM1,In-house Development RJL
+1,54,46,Paper RM1,In-house Development RAS
+1,55,469,Paper RM1,In-house Development RPY
+1,56,35,Paper RM1,Multiple RXN
+1,57,90,Paper RM1,Paper RYR
+1,58,15311,Paper RM1,Paper RCX
+1,59,136,Paper RM1,Paper RP4
+1,60,273,Paper RM1,Paper RF4
+1,61,11463,Paper RM1,Epic Systems
+1,62,33,Paper RM1,Paper RNL
+1,63,71,Paper RM1,Paper RH8
+1,64,161,Paper RM1,Paper RDU
+1,65,18,Paper RM1,Paper RJN
+1,66,57,Paper RM1,Paper RK9
+1,67,12,Paper RM1,Multiple REM
+1,68,143,Paper RM1,In-house Development RR8
+1,69,29,Paper RM1,Multiple RA9
+1,70,188,Paper RM1,EMIS Health
+1,71,759,Paper RM1,Multiple RGN
+1,72,159,Paper RM1,Multiple RAJ
+1,73,144,Paper RM1,Paper RC1
+1,74,88,Paper RM1,Paper RPA
+1,75,531,Paper RM1,Paper RWD
+1,76,299,Paper RM1,Paper RWE
+1,77,74,Paper RM1,Paper RAP
+1,78,81,Paper RM1,Paper RP5
+1,79,731,Paper RM1,Allscripts
+1,80,58,Paper RM1,Paper RTR
+1,81,88,Paper RM1,In-house Development RN5
+1,82,132,Paper RM1,Advanced
+2,3,17,In-house Development RNA,Paper RXH
+2,4,58,In-house Development RNA,Across Health 
+2,5,213,In-house Development RNA,Intersystems
+2,6,670,In-house Development RNA,DXC Technology
+2,7,28,In-house Development RNA,Paper RXF
+2,8,30,In-house Development RNA,Kainos
+2,9,17,In-house Development RNA,Multiple RC9
+2,10,6,In-house Development RNA,Paper RCD
+2,11,16,In-house Development RNA,Viper
+2,13,20565,In-house Development RNA,In-house Development RRK
+2,14,250,In-house Development RNA,In-house Development RJF
+2,15,42,In-house Development RNA,Teleologic
+2,16,664,In-house Development RNA,Graphnet
+2,17,32,In-house Development RNA,In-house Development RCB
+2,18,20,In-house Development RNA,Multiple RAN
+2,19,1940,In-house Development RNA,Paper RXW
+2,20,33342,In-house Development RNA,Cerner
+2,21,46,In-house Development RNA,In-house Development RET
+2,22,8896,In-house Development RNA,Multiple RWP
+2,23,5,In-house Development RNA,Cambio Healthcare Systems
+2,24,19,In-house Development RNA,CGI
+2,25,34,In-house Development RNA,Paper RW6
+2,26,36,In-house Development RNA,Paper RBT
+2,27,11,In-house Development RNA,TPP
+2,28,19,In-house Development RNA,Paper RTF
+2,29,18,In-house Development RNA,Paper RDE
+2,30,18,In-house Development RNA,Paper RWG
+2,31,59,In-house Development RNA,Paper RLT
+2,32,121,In-house Development RNA,Multiple RX1
+2,33,156,In-house Development RNA,Paper RHQ
+2,35,4092,In-house Development RNA,Paper RRJ
+2,36,11,In-house Development RNA,Paper RMC
+2,37,70,In-house Development RNA,Fortrus
+2,38,45,In-house Development RNA,Multiple R1K
+2,39,12,In-house Development RNA,Paper RTK
+2,40,15,In-house Development RNA,Paper RXR
+2,41,74,In-house Development RNA,Multiple RQ6
+2,42,5,In-house Development RNA,Paper RPC
+2,43,1,In-house Development RNA,Paper RA2
+2,44,1067,In-house Development RNA,System C
+2,45,424,In-house Development RNA,IMS Maxims
+2,46,58,In-house Development RNA,In-house Development RBV
+2,47,26557,In-house Development RNA,In-house Development RL4
+2,48,2008,In-house Development RNA,In-house Development RR1
+2,49,8,In-house Development RNA,Paper RN7
+2,50,36,In-house Development RNA,Meditech
+2,51,129,In-house Development RNA,Multiple R0A
+2,52,2971,In-house Development RNA,Multiple RBK
+2,53,20,In-house Development RNA,In-house Development RJL
+2,54,26,In-house Development RNA,In-house Development RAS
+2,55,34,In-house Development RNA,In-house Development RPY
+2,56,13,In-house Development RNA,Multiple RXN
+2,57,20,In-house Development RNA,Paper RYR
+2,58,14,In-house Development RNA,Paper RCX
+2,60,27,In-house Development RNA,Paper RF4
+2,61,180,In-house Development RNA,Epic Systems
+2,62,16,In-house Development RNA,Paper RNL
+2,63,72,In-house Development RNA,Paper RH8
+2,64,51,In-house Development RNA,Paper RDU
+2,65,27,In-house Development RNA,Paper RJN
+2,66,44,In-house Development RNA,Paper RK9
+2,67,12,In-house Development RNA,Multiple REM
+2,68,54,In-house Development RNA,In-house Development RR8
+2,69,97,In-house Development RNA,Multiple RA9
+2,70,42,In-house Development RNA,EMIS Health
+2,71,39,In-house Development RNA,Multiple RGN
+2,72,14,In-house Development RNA,Multiple RAJ
+2,73,12,In-house Development RNA,Paper RC1
+2,74,21,In-house Development RNA,Paper RPA
+2,75,48,In-house Development RNA,Paper RWD
+2,76,227,In-house Development RNA,Paper RWE
+2,77,12,In-house Development RNA,Paper RAP
+2,78,23,In-house Development RNA,Paper RP5
+2,79,126,In-house Development RNA,Allscripts
+2,80,17,In-house Development RNA,Paper RTR
+2,81,30,In-house Development RNA,In-house Development RN5
+2,82,3115,In-house Development RNA,Advanced
+3,4,937,Paper RXH,Across Health 
+3,5,205,Paper RXH,Intersystems
+3,6,7675,Paper RXH,DXC Technology
+3,7,44,Paper RXH,Paper RXF
+3,8,28276,Paper RXH,Kainos
+3,9,54,Paper RXH,Multiple RC9
+3,10,22,Paper RXH,Paper RCD
+3,11,3597,Paper RXH,Viper
+3,13,100,Paper RXH,In-house Development RRK
+3,14,32,Paper RXH,In-house Development RJF
+3,15,433,Paper RXH,Teleologic
+3,16,2431,Paper RXH,Graphnet
+3,17,47,Paper RXH,In-house Development RCB
+3,18,861,Paper RXH,Multiple RAN
+3,19,43,Paper RXH,Paper RXW
+3,20,22602,Paper RXH,Cerner
+3,21,7,Paper RXH,In-house Development RET
+3,22,62,Paper RXH,Multiple RWP
+3,23,49,Paper RXH,Cambio Healthcare Systems
+3,24,133,Paper RXH,CGI
+3,25,34,Paper RXH,Paper RW6
+3,26,13,Paper RXH,Paper RBT
+3,27,19,Paper RXH,TPP
+3,28,26,Paper RXH,Paper RTF
+3,29,62,Paper RXH,Paper RDE
+3,30,94,Paper RXH,Paper RWG
+3,31,6,Paper RXH,Paper RLT
+3,32,92,Paper RXH,Multiple RX1
+3,33,88,Paper RXH,Paper RHQ
+3,34,2,Paper RXH,Silverlink Software
+3,35,4,Paper RXH,Paper RRJ
+3,36,19,Paper RXH,Paper RMC
+3,37,103,Paper RXH,Fortrus
+3,38,422,Paper RXH,Multiple R1K
+3,39,392,Paper RXH,Paper RTK
+3,40,17,Paper RXH,Paper RXR
+3,41,48,Paper RXH,Multiple RQ6
+3,42,14296,Paper RXH,Paper RPC
+3,43,1468,Paper RXH,Paper RA2
+3,44,827,Paper RXH,System C
+3,45,347,Paper RXH,IMS Maxims
+3,46,33,Paper RXH,In-house Development RBV
+3,47,46,Paper RXH,In-house Development RL4
+3,48,63,Paper RXH,In-house Development RR1
+3,49,161,Paper RXH,Paper RN7
+3,50,99,Paper RXH,Meditech
+3,51,157,Paper RXH,Multiple R0A
+3,52,9,Paper RXH,Multiple RBK
+3,53,35,Paper RXH,In-house Development RJL
+3,54,68,Paper RXH,In-house Development RAS
+3,55,2344,Paper RXH,In-house Development RPY
+3,56,47,Paper RXH,Multiple RXN
+3,57,36023,Paper RXH,Paper RYR
+3,58,47,Paper RXH,Paper RCX
+3,59,28,Paper RXH,Paper RP4
+3,60,106,Paper RXH,Paper RF4
+3,61,3995,Paper RXH,Epic Systems
+3,62,31,Paper RXH,Paper RNL
+3,63,169,Paper RXH,Paper RH8
+3,64,411,Paper RXH,Paper RDU
+3,65,23,Paper RXH,Paper RJN
+3,66,132,Paper RXH,Paper RK9
+3,67,18,Paper RXH,Multiple REM
+3,68,104,Paper RXH,In-house Development RR8
+3,69,80,Paper RXH,Multiple RA9
+3,70,613,Paper RXH,EMIS Health
+3,71,72,Paper RXH,Multiple RGN
+3,72,74,Paper RXH,Multiple RAJ
+3,73,48,Paper RXH,Paper RC1
+3,74,221,Paper RXH,Paper RPA
+3,75,57,Paper RXH,Paper RWD
+3,76,114,Paper RXH,Paper RWE
+3,77,67,Paper RXH,Paper RAP
+3,78,24,Paper RXH,Paper RP5
+3,79,3971,Paper RXH,Allscripts
+3,80,44,Paper RXH,Paper RTR
+3,81,250,Paper RXH,In-house Development RN5
+3,82,111,Paper RXH,Advanced
+4,5,450,Across Health ,Intersystems
+4,6,35623,Across Health ,DXC Technology
+4,7,32,Across Health ,Paper RXF
+4,8,1280,Across Health ,Kainos
+4,9,1308,Across Health ,Multiple RC9
+4,10,22,Across Health ,Paper RCD
+4,11,1488,Across Health ,Viper
+4,13,168,Across Health ,In-house Development RRK
+4,14,36,Across Health ,In-house Development RJF
+4,15,2064,Across Health ,Teleologic
+4,16,4190,Across Health ,Graphnet
+4,17,149,Across Health ,In-house Development RCB
+4,18,1757,Across Health ,Multiple RAN
+4,19,89,Across Health ,Paper RXW
+4,20,219882,Across Health ,Cerner
+4,21,6,Across Health ,In-house Development RET
+4,22,92,Across Health ,Multiple RWP
+4,23,3874,Across Health ,Cambio Healthcare Systems
+4,24,147,Across Health ,CGI
+4,25,33,Across Health ,Paper RW6
+4,26,34,Across Health ,Paper RBT
+4,27,25,Across Health ,TPP
+4,28,21,Across Health ,Paper RTF
+4,29,1355,Across Health ,Paper RDE
+4,30,5589,Across Health ,Paper RWG
+4,31,28,Across Health ,Paper RLT
+4,32,270,Across Health ,Multiple RX1
+4,33,172,Across Health ,Paper RHQ
+4,35,10,Across Health ,Paper RRJ
+4,36,24,Across Health ,Paper RMC
+4,37,166,Across Health ,Fortrus
+4,38,35951,Across Health ,Multiple R1K
+4,39,2115,Across Health ,Paper RTK
+4,40,58,Across Health ,Paper RXR
+4,41,96,Across Health ,Multiple RQ6
+4,42,605,Across Health ,Paper RPC
+4,43,904,Across Health ,Paper RA2
+4,44,15869,Across Health ,System C
+4,45,425,Across Health ,IMS Maxims
+4,46,13,Across Health ,In-house Development RBV
+4,47,166,Across Health ,In-house Development RL4
+4,48,222,Across Health ,In-house Development RR1
+4,49,3928,Across Health ,Paper RN7
+4,50,267,Across Health ,Meditech
+4,51,272,Across Health ,Multiple R0A
+4,52,47,Across Health ,Multiple RBK
+4,53,55,Across Health ,In-house Development RJL
+4,54,4200,Across Health ,In-house Development RAS
+4,55,2874,Across Health ,In-house Development RPY
+4,56,20,Across Health ,Multiple RXN
+4,57,692,Across Health ,Paper RYR
+4,58,208,Across Health ,Paper RCX
+4,59,118,Across Health ,Paper RP4
+4,60,19851,Across Health ,Paper RF4
+4,61,30407,Across Health ,Epic Systems
+4,62,54,Across Health ,Paper RNL
+4,63,240,Across Health ,Paper RH8
+4,64,1735,Across Health ,Paper RDU
+4,65,12,Across Health ,Paper RJN
+4,66,130,Across Health ,Paper RK9
+4,67,18,Across Health ,Multiple REM
+4,68,123,Across Health ,In-house Development RR8
+4,69,157,Across Health ,Multiple RA9
+4,70,859,Across Health ,EMIS Health
+4,71,636,Across Health ,Multiple RGN
+4,72,1457,Across Health ,Multiple RAJ
+4,73,1377,Across Health ,Paper RC1
+4,74,1154,Across Health ,Paper RPA
+4,75,407,Across Health ,Paper RWD
+4,76,629,Across Health ,Paper RWE
+4,77,11428,Across Health ,Paper RAP
+4,78,51,Across Health ,Paper RP5
+4,79,15217,Across Health ,Allscripts
+4,80,66,Across Health ,Paper RTR
+4,81,426,Across Health ,In-house Development RN5
+4,82,238,Across Health ,Advanced
+5,6,39285,Intersystems,DXC Technology
+5,7,195,Intersystems,Paper RXF
+5,8,227,Intersystems,Kainos
+5,9,93,Intersystems,Multiple RC9
+5,10,201,Intersystems,Paper RCD
+5,11,189,Intersystems,Viper
+5,13,2974,Intersystems,In-house Development RRK
+5,14,164,Intersystems,In-house Development RJF
+5,15,375,Intersystems,Teleologic
+5,16,1999,Intersystems,Graphnet
+5,17,752,Intersystems,In-house Development RCB
+5,18,252,Intersystems,Multiple RAN
+5,19,269,Intersystems,Paper RXW
+5,20,24777,Intersystems,Cerner
+5,21,140,Intersystems,In-house Development RET
+5,22,9508,Intersystems,Multiple RWP
+5,23,82,Intersystems,Cambio Healthcare Systems
+5,24,110,Intersystems,CGI
+5,25,1788,Intersystems,Paper RW6
+5,26,792,Intersystems,Paper RBT
+5,27,141,Intersystems,TPP
+5,28,330,Intersystems,Paper RTF
+5,29,96,Intersystems,Paper RDE
+5,30,159,Intersystems,Paper RWG
+5,31,94,Intersystems,Paper RLT
+5,32,305,Intersystems,Multiple RX1
+5,33,1325,Intersystems,Paper RHQ
+5,34,185,Intersystems,Silverlink Software
+5,35,514,Intersystems,Paper RRJ
+5,36,339,Intersystems,Paper RMC
+5,37,12675,Intersystems,Fortrus
+5,38,282,Intersystems,Multiple R1K
+5,39,188,Intersystems,Paper RTK
+5,40,231,Intersystems,Paper RXR
+5,41,521,Intersystems,Multiple RQ6
+5,42,73,Intersystems,Paper RPC
+5,43,204,Intersystems,Paper RA2
+5,44,23345,Intersystems,System C
+5,45,40512,Intersystems,IMS Maxims
+5,46,14927,Intersystems,In-house Development RBV
+5,47,194,Intersystems,In-house Development RL4
+5,48,629,Intersystems,In-house Development RR1
+5,49,109,Intersystems,Paper RN7
+5,50,15546,Intersystems,Meditech
+5,51,56411,Intersystems,Multiple R0A
+5,52,86,Intersystems,Multiple RBK
+5,53,116,Intersystems,In-house Development RJL
+5,54,118,Intersystems,In-house Development RAS
+5,55,397,Intersystems,In-house Development RPY
+5,56,197,Intersystems,Multiple RXN
+5,57,231,Intersystems,Paper RYR
+5,58,63,Intersystems,Paper RCX
+5,59,1,Intersystems,Paper RP4
+5,60,134,Intersystems,Paper RF4
+5,61,1803,Intersystems,Epic Systems
+5,62,246,Intersystems,Paper RNL
+5,63,35463,Intersystems,Paper RH8
+5,64,530,Intersystems,Paper RDU
+5,65,11171,Intersystems,Paper RJN
+5,66,5039,Intersystems,Paper RK9
+5,67,140,Intersystems,Multiple REM
+5,68,814,Intersystems,In-house Development RR8
+5,69,803,Intersystems,Multiple RA9
+5,70,1455,Intersystems,EMIS Health
+5,71,169,Intersystems,Multiple RGN
+5,72,104,Intersystems,Multiple RAJ
+5,73,102,Intersystems,Paper RC1
+5,74,103,Intersystems,Paper RPA
+5,75,221,Intersystems,Paper RWD
+5,76,421,Intersystems,Paper RWE
+5,77,64,Intersystems,Paper RAP
+5,78,149,Intersystems,Paper RP5
+5,79,26751,Intersystems,Allscripts
+5,80,80489,Intersystems,Paper RTR
+5,81,411,Intersystems,In-house Development RN5
+5,82,567,Intersystems,Advanced
+6,7,11082,DXC Technology,Paper RXF
+6,8,15661,DXC Technology,Kainos
+6,9,17614,DXC Technology,Multiple RC9
+6,10,914,DXC Technology,Paper RCD
+6,11,16219,DXC Technology,Viper
+6,13,7423,DXC Technology,In-house Development RRK
+6,14,38032,DXC Technology,In-house Development RJF
+6,15,16378,DXC Technology,Teleologic
+6,16,27370,DXC Technology,Graphnet
+6,17,33733,DXC Technology,In-house Development RCB
+6,18,7515,DXC Technology,Multiple RAN
+6,19,828,DXC Technology,Paper RXW
+6,20,524469,DXC Technology,Cerner
+6,21,11703,DXC Technology,In-house Development RET
+6,22,8507,DXC Technology,Multiple RWP
+6,23,34277,DXC Technology,Cambio Healthcare Systems
+6,24,1006,DXC Technology,CGI
+6,25,14729,DXC Technology,Paper RW6
+6,26,3510,DXC Technology,Paper RBT
+6,27,5677,DXC Technology,TPP
+6,28,2101,DXC Technology,Paper RTF
+6,29,24797,DXC Technology,Paper RDE
+6,30,28522,DXC Technology,Paper RWG
+6,31,4568,DXC Technology,Paper RLT
+6,32,38704,DXC Technology,Multiple RX1
+6,33,56096,DXC Technology,Paper RHQ
+6,34,2693,DXC Technology,Silverlink Software
+6,35,1267,DXC Technology,Paper RRJ
+6,36,1024,DXC Technology,Paper RMC
+6,37,6956,DXC Technology,Fortrus
+6,38,14921,DXC Technology,Multiple R1K
+6,39,12643,DXC Technology,Paper RTK
+6,40,2778,DXC Technology,Paper RXR
+6,41,16006,DXC Technology,Multiple RQ6
+6,42,3802,DXC Technology,Paper RPC
+6,43,10627,DXC Technology,Paper RA2
+6,44,306853,DXC Technology,System C
+6,45,23242,DXC Technology,IMS Maxims
+6,46,10657,DXC Technology,In-house Development RBV
+6,47,1472,DXC Technology,In-house Development RL4
+6,48,6990,DXC Technology,In-house Development RR1
+6,49,26349,DXC Technology,Paper RN7
+6,50,77955,DXC Technology,Meditech
+6,51,56683,DXC Technology,Multiple R0A
+6,52,548,DXC Technology,Multiple RBK
+6,53,40429,DXC Technology,In-house Development RJL
+6,54,7938,DXC Technology,In-house Development RAS
+6,55,30837,DXC Technology,In-house Development RPY
+6,56,32451,DXC Technology,Multiple RXN
+6,57,4105,DXC Technology,Paper RYR
+6,58,9855,DXC Technology,Paper RCX
+6,59,722,DXC Technology,Paper RP4
+6,60,24398,DXC Technology,Paper RF4
+6,61,91259,DXC Technology,Epic Systems
+6,62,6887,DXC Technology,Paper RNL
+6,63,3227,DXC Technology,Paper RH8
+6,64,14860,DXC Technology,Paper RDU
+6,65,1063,DXC Technology,Paper RJN
+6,66,1890,DXC Technology,Paper RK9
+6,67,5389,DXC Technology,Multiple REM
+6,68,9464,DXC Technology,In-house Development RR8
+6,69,1647,DXC Technology,Multiple RA9
+6,70,28380,DXC Technology,EMIS Health
+6,71,23432,DXC Technology,Multiple RGN
+6,72,19784,DXC Technology,Multiple RAJ
+6,73,18596,DXC Technology,Paper RC1
+6,74,11282,DXC Technology,Paper RPA
+6,75,8063,DXC Technology,Paper RWD
+6,76,9813,DXC Technology,Paper RWE
+6,77,6170,DXC Technology,Paper RAP
+6,78,10505,DXC Technology,Paper RP5
+6,79,209252,DXC Technology,Allscripts
+6,80,39000,DXC Technology,Paper RTR
+6,81,8907,DXC Technology,In-house Development RN5
+6,82,59454,DXC Technology,Advanced
+7,8,34,Paper RXF,Kainos
+7,9,20,Paper RXF,Multiple RC9
+7,10,894,Paper RXF,Paper RCD
+7,11,23,Paper RXF,Viper
+7,13,71,Paper RXF,In-house Development RRK
+7,14,31,Paper RXF,In-house Development RJF
+7,15,59,Paper RXF,Teleologic
+7,16,101,Paper RXF,Graphnet
+7,17,4841,Paper RXF,In-house Development RCB
+7,18,34,Paper RXF,Multiple RAN
+7,19,28,Paper RXF,Paper RXW
+7,20,20756,Paper RXF,Cerner
+7,21,76,Paper RXF,In-house Development RET
+7,22,39,Paper RXF,Multiple RWP
+7,23,8,Paper RXF,Cambio Healthcare Systems
+7,24,18,Paper RXF,CGI
+7,25,216,Paper RXF,Paper RW6
+7,26,27,Paper RXF,Paper RBT
+7,27,974,Paper RXF,TPP
+7,28,114,Paper RXF,Paper RTF
+7,29,21,Paper RXF,Paper RDE
+7,30,18,Paper RXF,Paper RWG
+7,31,16,Paper RXF,Paper RLT
+7,32,174,Paper RXF,Multiple RX1
+7,33,5762,Paper RXF,Paper RHQ
+7,34,12,Paper RXF,Silverlink Software
+7,35,43,Paper RXF,Paper RRJ
+7,36,109,Paper RXF,Paper RMC
+7,37,27,Paper RXF,Fortrus
+7,38,29,Paper RXF,Multiple R1K
+7,39,19,Paper RXF,Paper RTK
+7,40,153,Paper RXF,Paper RXR
+7,41,98,Paper RXF,Multiple RQ6
+7,42,16,Paper RXF,Paper RPC
+7,43,19,Paper RXF,Paper RA2
+7,44,530,Paper RXF,System C
+7,45,223,Paper RXF,IMS Maxims
+7,46,245,Paper RXF,In-house Development RBV
+7,47,29,Paper RXF,In-house Development RL4
+7,48,67,Paper RXF,In-house Development RR1
+7,49,33,Paper RXF,Paper RN7
+7,50,133,Paper RXF,Meditech
+7,51,537,Paper RXF,Multiple R0A
+7,52,17,Paper RXF,Multiple RBK
+7,53,1028,Paper RXF,In-house Development RJL
+7,54,12,Paper RXF,In-house Development RAS
+7,55,23,Paper RXF,In-house Development RPY
+7,56,97,Paper RXF,Multiple RXN
+7,57,22,Paper RXF,Paper RYR
+7,58,20,Paper RXF,Paper RCX
+7,59,1,Paper RXF,Paper RP4
+7,60,22,Paper RXF,Paper RF4
+7,61,210,Paper RXF,Epic Systems
+7,62,55,Paper RXF,Paper RNL
+7,63,30,Paper RXF,Paper RH8
+7,64,42,Paper RXF,Paper RDU
+7,65,15,Paper RXF,Paper RJN
+7,66,27,Paper RXF,Paper RK9
+7,67,38,Paper RXF,Multiple REM
+7,68,63958,Paper RXF,In-house Development RR8
+7,69,39,Paper RXF,Multiple RA9
+7,70,54,Paper RXF,EMIS Health
+7,71,78,Paper RXF,Multiple RGN
+7,72,23,Paper RXF,Multiple RAJ
+7,73,15,Paper RXF,Paper RC1
+7,74,18,Paper RXF,Paper RPA
+7,75,303,Paper RXF,Paper RWD
+7,76,200,Paper RXF,Paper RWE
+7,77,13,Paper RXF,Paper RAP
+7,78,3300,Paper RXF,Paper RP5
+7,79,404,Paper RXF,Allscripts
+7,80,299,Paper RXF,Paper RTR
+7,81,19,Paper RXF,In-house Development RN5
+7,82,83,Paper RXF,Advanced
+8,9,165,Kainos,Multiple RC9
+8,10,23,Kainos,Paper RCD
+8,11,5510,Kainos,Viper
+8,13,139,Kainos,In-house Development RRK
+8,14,38,Kainos,In-house Development RJF
+8,15,1580,Kainos,Teleologic
+8,16,1609,Kainos,Graphnet
+8,17,97,Kainos,In-house Development RCB
+8,18,1067,Kainos,Multiple RAN
+8,19,50,Kainos,Paper RXW
+8,20,43479,Kainos,Cerner
+8,21,4,Kainos,In-house Development RET
+8,22,80,Kainos,Multiple RWP
+8,23,164,Kainos,Cambio Healthcare Systems
+8,24,95,Kainos,CGI
+8,25,63,Kainos,Paper RW6
+8,26,23,Kainos,Paper RBT
+8,27,37,Kainos,TPP
+8,28,47,Kainos,Paper RTF
+8,29,13030,Kainos,Paper RDE
+8,30,109,Kainos,Paper RWG
+8,31,35,Kainos,Paper RLT
+8,32,149,Kainos,Multiple RX1
+8,33,187,Kainos,Paper RHQ
+8,34,8,Kainos,Silverlink Software
+8,35,41,Kainos,Paper RRJ
+8,36,23,Kainos,Paper RMC
+8,37,117,Kainos,Fortrus
+8,38,461,Kainos,Multiple R1K
+8,39,219,Kainos,Paper RTK
+8,40,32,Kainos,Paper RXR
+8,41,34,Kainos,Multiple RQ6
+8,42,5840,Kainos,Paper RPC
+8,43,716,Kainos,Paper RA2
+8,44,1380,Kainos,System C
+8,45,345,Kainos,IMS Maxims
+8,46,25,Kainos,In-house Development RBV
+8,47,49,Kainos,In-house Development RL4
+8,48,95,Kainos,In-house Development RR1
+8,49,226,Kainos,Paper RN7
+8,50,83,Kainos,Meditech
+8,51,95,Kainos,Multiple R0A
+8,52,25,Kainos,Multiple RBK
+8,53,49,Kainos,In-house Development RJL
+8,54,99,Kainos,In-house Development RAS
+8,55,1353,Kainos,In-house Development RPY
+8,56,53,Kainos,Multiple RXN
+8,57,1264,Kainos,Paper RYR
+8,58,151,Kainos,Paper RCX
+8,59,38,Kainos,Paper RP4
+8,60,463,Kainos,Paper RF4
+8,61,16519,Kainos,Epic Systems
+8,62,48,Kainos,Paper RNL
+8,63,119,Kainos,Paper RH8
+8,64,339,Kainos,Paper RDU
+8,65,9,Kainos,Paper RJN
+8,66,77,Kainos,Paper RK9
+8,67,34,Kainos,Multiple REM
+8,68,75,Kainos,In-house Development RR8
+8,69,65,Kainos,Multiple RA9
+8,70,366,Kainos,EMIS Health
+8,71,247,Kainos,Multiple RGN
+8,72,352,Kainos,Multiple RAJ
+8,73,92,Kainos,Paper RC1
+8,74,378,Kainos,Paper RPA
+8,75,177,Kainos,Paper RWD
+8,76,168,Kainos,Paper RWE
+8,77,94,Kainos,Paper RAP
+8,78,34,Kainos,Paper RP5
+8,79,3981,Kainos,Allscripts
+8,80,47,Kainos,Paper RTR
+8,81,211,Kainos,In-house Development RN5
+8,82,143,Kainos,Advanced
+9,10,4,Multiple RC9,Paper RCD
+9,11,28,Multiple RC9,Viper
+9,13,84,Multiple RC9,In-house Development RRK
+9,14,12,Multiple RC9,In-house Development RJF
+9,15,877,Multiple RC9,Teleologic
+9,16,7920,Multiple RC9,Graphnet
+9,17,47,Multiple RC9,In-house Development RCB
+9,18,1801,Multiple RC9,Multiple RAN
+9,19,20,Multiple RC9,Paper RXW
+9,20,14977,Multiple RC9,Cerner
+9,21,7,Multiple RC9,In-house Development RET
+9,22,28,Multiple RC9,Multiple RWP
+9,23,329,Multiple RC9,Cambio Healthcare Systems
+9,24,28,Multiple RC9,CGI
+9,25,35,Multiple RC9,Paper RW6
+9,26,18,Multiple RC9,Paper RBT
+9,27,47,Multiple RC9,TPP
+9,28,13,Multiple RC9,Paper RTF
+9,29,172,Multiple RC9,Paper RDE
+9,30,14738,Multiple RC9,Paper RWG
+9,31,17,Multiple RC9,Paper RLT
+9,32,91,Multiple RC9,Multiple RX1
+9,33,76,Multiple RC9,Paper RHQ
+9,34,5,Multiple RC9,Silverlink Software
+9,35,20,Multiple RC9,Paper RRJ
+9,36,26,Multiple RC9,Paper RMC
+9,37,40,Multiple RC9,Fortrus
+9,38,1015,Multiple RC9,Multiple R1K
+9,39,60,Multiple RC9,Paper RTK
+9,40,26,Multiple RC9,Paper RXR
+9,41,39,Multiple RC9,Multiple RQ6
+9,42,38,Multiple RC9,Paper RPC
+9,43,27,Multiple RC9,Paper RA2
+9,44,6258,Multiple RC9,System C
+9,45,119,Multiple RC9,IMS Maxims
+9,46,4,Multiple RC9,In-house Development RBV
+9,47,35,Multiple RC9,In-house Development RL4
+9,48,115,Multiple RC9,In-house Development RR1
+9,49,34,Multiple RC9,Paper RN7
+9,50,43,Multiple RC9,Meditech
+9,51,73,Multiple RC9,Multiple R0A
+9,52,20,Multiple RC9,Multiple RBK
+9,53,39,Multiple RC9,In-house Development RJL
+9,54,334,Multiple RC9,In-house Development RAS
+9,55,209,Multiple RC9,In-house Development RPY
+9,56,11,Multiple RC9,Multiple RXN
+9,57,47,Multiple RC9,Paper RYR
+9,58,168,Multiple RC9,Paper RCX
+9,59,135,Multiple RC9,Paper RP4
+9,60,119,Multiple RC9,Paper RF4
+9,61,7837,Multiple RC9,Epic Systems
+9,62,17,Multiple RC9,Paper RNL
+9,63,37,Multiple RC9,Paper RH8
+9,64,199,Multiple RC9,Paper RDU
+9,65,4,Multiple RC9,Paper RJN
+9,66,38,Multiple RC9,Paper RK9
+9,67,14,Multiple RC9,Multiple REM
+9,68,51,Multiple RC9,In-house Development RR8
+9,69,30,Multiple RC9,Multiple RA9
+9,70,101,Multiple RC9,EMIS Health
+9,71,450,Multiple RC9,Multiple RGN
+9,72,52,Multiple RC9,Multiple RAJ
+9,73,9770,Multiple RC9,Paper RC1
+9,74,30,Multiple RC9,Paper RPA
+9,75,108,Multiple RC9,Paper RWD
+9,76,212,Multiple RC9,Paper RWE
+9,77,259,Multiple RC9,Paper RAP
+9,78,23,Multiple RC9,Paper RP5
+9,79,440,Multiple RC9,Allscripts
+9,80,27,Multiple RC9,Paper RTR
+9,81,33,Multiple RC9,In-house Development RN5
+9,82,104,Multiple RC9,Advanced
+10,11,15,Paper RCD,Viper
+10,13,34,Paper RCD,In-house Development RRK
+10,14,26,Paper RCD,In-house Development RJF
+10,15,51,Paper RCD,Teleologic
+10,16,53,Paper RCD,Graphnet
+10,17,15228,Paper RCD,In-house Development RCB
+10,18,22,Paper RCD,Multiple RAN
+10,19,21,Paper RCD,Paper RXW
+10,20,2340,Paper RCD,Cerner
+10,21,14,Paper RCD,In-house Development RET
+10,22,8,Paper RCD,Multiple RWP
+10,23,4,Paper RCD,Cambio Healthcare Systems
+10,24,9,Paper RCD,CGI
+10,25,57,Paper RCD,Paper RW6
+10,26,17,Paper RCD,Paper RBT
+10,27,1540,Paper RCD,TPP
+10,28,83,Paper RCD,Paper RTF
+10,29,9,Paper RCD,Paper RDE
+10,30,23,Paper RCD,Paper RWG
+10,31,13,Paper RCD,Paper RLT
+10,32,108,Paper RCD,Multiple RX1
+10,33,479,Paper RCD,Paper RHQ
+10,34,9,Paper RCD,Silverlink Software
+10,35,35,Paper RCD,Paper RRJ
+10,36,26,Paper RCD,Paper RMC
+10,37,15,Paper RCD,Fortrus
+10,38,10,Paper RCD,Multiple R1K
+10,39,20,Paper RCD,Paper RTK
+10,40,83,Paper RCD,Paper RXR
+10,41,28,Paper RCD,Multiple RQ6
+10,42,3,Paper RCD,Paper RPC
+10,43,18,Paper RCD,Paper RA2
+10,44,278,Paper RCD,System C
+10,45,119,Paper RCD,IMS Maxims
+10,46,75,Paper RCD,In-house Development RBV
+10,47,11,Paper RCD,In-house Development RL4
+10,48,37,Paper RCD,In-house Development RR1
+10,49,8,Paper RCD,Paper RN7
+10,50,110,Paper RCD,Meditech
+10,51,229,Paper RCD,Multiple R0A
+10,52,6,Paper RCD,Multiple RBK
+10,53,150,Paper RCD,In-house Development RJL
+10,54,4,Paper RCD,In-house Development RAS
+10,55,23,Paper RCD,In-house Development RPY
+10,56,52,Paper RCD,Multiple RXN
+10,57,21,Paper RCD,Paper RYR
+10,58,11,Paper RCD,Paper RCX
+10,59,4,Paper RCD,Paper RP4
+10,60,13,Paper RCD,Paper RF4
+10,61,212,Paper RCD,Epic Systems
+10,62,54,Paper RCD,Paper RNL
+10,63,32,Paper RCD,Paper RH8
+10,64,53,Paper RCD,Paper RDU
+10,65,14,Paper RCD,Paper RJN
+10,66,21,Paper RCD,Paper RK9
+10,67,40,Paper RCD,Multiple REM
+10,68,30020,Paper RCD,In-house Development RR8
+10,69,17,Paper RCD,Multiple RA9
+10,70,33,Paper RCD,EMIS Health
+10,71,41,Paper RCD,Multiple RGN
+10,72,9,Paper RCD,Multiple RAJ
+10,73,1,Paper RCD,Paper RC1
+10,74,6,Paper RCD,Paper RPA
+10,75,106,Paper RCD,Paper RWD
+10,76,70,Paper RCD,Paper RWE
+10,77,12,Paper RCD,Paper RAP
+10,78,152,Paper RCD,Paper RP5
+10,79,181,Paper RCD,Allscripts
+10,80,3270,Paper RCD,Paper RTR
+10,81,24,Paper RCD,In-house Development RN5
+10,82,44,Paper RCD,Advanced
+11,13,44,Viper,In-house Development RRK
+11,14,19,Viper,In-house Development RJF
+11,15,21170,Viper,Teleologic
+11,16,1726,Viper,Graphnet
+11,17,52,Viper,In-house Development RCB
+11,18,896,Viper,Multiple RAN
+11,19,40,Viper,Paper RXW
+11,20,8333,Viper,Cerner
+11,21,3,Viper,In-house Development RET
+11,22,48,Viper,Multiple RWP
+11,23,70,Viper,Cambio Healthcare Systems
+11,24,52,Viper,CGI
+11,25,24,Viper,Paper RW6
+11,26,10,Viper,Paper RBT
+11,27,22,Viper,TPP
+11,28,35,Viper,Paper RTF
+11,29,81,Viper,Paper RDE
+11,30,80,Viper,Paper RWG
+11,31,9,Viper,Paper RLT
+11,32,64,Viper,Multiple RX1
+11,33,56,Viper,Paper RHQ
+11,34,3,Viper,Silverlink Software
+11,35,5,Viper,Paper RRJ
+11,36,16,Viper,Paper RMC
+11,37,78,Viper,Fortrus
+11,38,419,Viper,Multiple R1K
+11,39,186,Viper,Paper RTK
+11,40,12,Viper,Paper RXR
+11,41,30,Viper,Multiple RQ6
+11,42,18538,Viper,Paper RPC
+11,43,185,Viper,Paper RA2
+11,44,660,Viper,System C
+11,45,230,Viper,IMS Maxims
+11,46,3,Viper,In-house Development RBV
+11,47,21,Viper,In-house Development RL4
+11,48,32,Viper,In-house Development RR1
+11,49,10094,Viper,Paper RN7
+11,50,35,Viper,Meditech
+11,51,55,Viper,Multiple R0A
+11,52,5,Viper,Multiple RBK
+11,53,22,Viper,In-house Development RJL
+11,54,42,Viper,In-house Development RAS
+11,55,1169,Viper,In-house Development RPY
+11,56,20,Viper,Multiple RXN
+11,57,441,Viper,Paper RYR
+11,58,41,Viper,Paper RCX
+11,59,23,Viper,Paper RP4
+11,60,254,Viper,Paper RF4
+11,61,3119,Viper,Epic Systems
+11,62,12,Viper,Paper RNL
+11,63,113,Viper,Paper RH8
+11,64,207,Viper,Paper RDU
+11,65,7,Viper,Paper RJN
+11,66,63,Viper,Paper RK9
+11,67,13,Viper,Multiple REM
+11,68,50,Viper,In-house Development RR8
+11,69,94,Viper,Multiple RA9
+11,70,198,Viper,EMIS Health
+11,71,66,Viper,Multiple RGN
+11,72,98,Viper,Multiple RAJ
+11,73,27,Viper,Paper RC1
+11,74,45893,Viper,Paper RPA
+11,75,67,Viper,Paper RWD
+11,76,73,Viper,Paper RWE
+11,77,51,Viper,Paper RAP
+11,78,27,Viper,Paper RP5
+11,79,18636,Viper,Allscripts
+11,80,35,Viper,Paper RTR
+11,81,104,Viper,In-house Development RN5
+11,82,53,Viper,Advanced
+13,14,5412,In-house Development RRK,In-house Development RJF
+13,15,749,In-house Development RRK,Teleologic
+13,16,1412,In-house Development RRK,Graphnet
+13,17,136,In-house Development RRK,In-house Development RCB
+13,18,67,In-house Development RRK,Multiple RAN
+13,19,6222,In-house Development RRK,Paper RXW
+13,20,88156,In-house Development RRK,Cerner
+13,21,80,In-house Development RRK,In-house Development RET
+13,22,29075,In-house Development RRK,Multiple RWP
+13,23,32,In-house Development RRK,Cambio Healthcare Systems
+13,24,50,In-house Development RRK,CGI
+13,25,120,In-house Development RRK,Paper RW6
+13,26,358,In-house Development RRK,Paper RBT
+13,27,114,In-house Development RRK,TPP
+13,28,33,In-house Development RRK,Paper RTF
+13,29,40,In-house Development RRK,Paper RDE
+13,30,107,In-house Development RRK,Paper RWG
+13,31,1961,In-house Development RRK,Paper RLT
+13,32,739,In-house Development RRK,Multiple RX1
+13,33,807,In-house Development RRK,Paper RHQ
+13,34,5,In-house Development RRK,Silverlink Software
+13,35,29075,In-house Development RRK,Paper RRJ
+13,36,33,In-house Development RRK,Paper RMC
+13,37,124,In-house Development RRK,Fortrus
+13,38,139,In-house Development RRK,Multiple R1K
+13,39,66,In-house Development RRK,Paper RTK
+13,40,99,In-house Development RRK,Paper RXR
+13,41,570,In-house Development RRK,Multiple RQ6
+13,42,33,In-house Development RRK,Paper RPC
+13,43,37,In-house Development RRK,Paper RA2
+13,44,6939,In-house Development RRK,System C
+13,45,7139,In-house Development RRK,IMS Maxims
+13,46,192,In-house Development RRK,In-house Development RBV
+13,47,13947,In-house Development RRK,In-house Development RL4
+13,48,81402,In-house Development RRK,In-house Development RR1
+13,49,32,In-house Development RRK,Paper RN7
+13,50,311,In-house Development RRK,Meditech
+13,51,578,In-house Development RRK,Multiple R0A
+13,52,12440,In-house Development RRK,Multiple RBK
+13,53,45,In-house Development RRK,In-house Development RJL
+13,54,56,In-house Development RRK,In-house Development RAS
+13,55,202,In-house Development RRK,In-house Development RPY
+13,56,146,In-house Development RRK,Multiple RXN
+13,57,68,In-house Development RRK,Paper RYR
+13,58,47,In-house Development RRK,Paper RCX
+13,59,6,In-house Development RRK,Paper RP4
+13,60,73,In-house Development RRK,Paper RF4
+13,61,1104,In-house Development RRK,Epic Systems
+13,62,28,In-house Development RRK,Paper RNL
+13,63,261,In-house Development RRK,Paper RH8
+13,64,241,In-house Development RRK,Paper RDU
+13,65,95,In-house Development RRK,Paper RJN
+13,66,163,In-house Development RRK,Paper RK9
+13,67,274,In-house Development RRK,Multiple REM
+13,68,204,In-house Development RRK,In-house Development RR8
+13,69,222,In-house Development RRK,Multiple RA9
+13,70,253,In-house Development RRK,EMIS Health
+13,71,179,In-house Development RRK,Multiple RGN
+13,72,15,In-house Development RRK,Multiple RAJ
+13,73,87,In-house Development RRK,Paper RC1
+13,74,48,In-house Development RRK,Paper RPA
+13,75,238,In-house Development RRK,Paper RWD
+13,76,2018,In-house Development RRK,Paper RWE
+13,77,53,In-house Development RRK,Paper RAP
+13,78,92,In-house Development RRK,Paper RP5
+13,79,692,In-house Development RRK,Allscripts
+13,80,84,In-house Development RRK,Paper RTR
+13,81,113,In-house Development RRK,In-house Development RN5
+13,82,35813,In-house Development RRK,Advanced
+14,15,126,In-house Development RJF,Teleologic
+14,16,372,In-house Development RJF,Graphnet
+14,17,38,In-house Development RJF,In-house Development RCB
+14,18,7,In-house Development RJF,Multiple RAN
+14,19,175,In-house Development RJF,Paper RXW
+14,20,2860,In-house Development RJF,Cerner
+14,21,36,In-house Development RJF,In-house Development RET
+14,22,157,In-house Development RJF,Multiple RWP
+14,23,7,In-house Development RJF,Cambio Healthcare Systems
+14,24,18,In-house Development RJF,CGI
+14,25,30,In-house Development RJF,Paper RW6
+14,26,56,In-house Development RJF,Paper RBT
+14,27,28,In-house Development RJF,TPP
+14,28,24,In-house Development RJF,Paper RTF
+14,29,18,In-house Development RJF,Paper RDE
+14,30,26,In-house Development RJF,Paper RWG
+14,31,2713,In-house Development RJF,Paper RLT
+14,32,3251,In-house Development RJF,Multiple RX1
+14,33,624,In-house Development RJF,Paper RHQ
+14,34,6,In-house Development RJF,Silverlink Software
+14,35,940,In-house Development RJF,Paper RRJ
+14,36,12,In-house Development RJF,Paper RMC
+14,37,54,In-house Development RJF,Fortrus
+14,38,35,In-house Development RJF,Multiple R1K
+14,39,12,In-house Development RJF,Paper RTK
+14,40,44,In-house Development RJF,Paper RXR
+14,41,54,In-house Development RJF,Multiple RQ6
+14,42,2,In-house Development RJF,Paper RPC
+14,43,19,In-house Development RJF,Paper RA2
+14,44,12083,In-house Development RJF,System C
+14,45,238,In-house Development RJF,IMS Maxims
+14,46,51,In-house Development RJF,In-house Development RBV
+14,47,9794,In-house Development RJF,In-house Development RL4
+14,48,33970,In-house Development RJF,In-house Development RR1
+14,49,5,In-house Development RJF,Paper RN7
+14,50,52,In-house Development RJF,Meditech
+14,51,130,In-house Development RJF,Multiple R0A
+14,52,3505,In-house Development RJF,Multiple RBK
+14,53,25,In-house Development RJF,In-house Development RJL
+14,54,26,In-house Development RJF,In-house Development RAS
+14,55,27,In-house Development RJF,In-house Development RPY
+14,56,31,In-house Development RJF,Multiple RXN
+14,57,26,In-house Development RJF,Paper RYR
+14,58,23,In-house Development RJF,Paper RCX
+14,59,1,In-house Development RJF,Paper RP4
+14,60,23,In-house Development RJF,Paper RF4
+14,61,196,In-house Development RJF,Epic Systems
+14,62,31,In-house Development RJF,Paper RNL
+14,63,69,In-house Development RJF,Paper RH8
+14,64,59,In-house Development RJF,Paper RDU
+14,65,49,In-house Development RJF,Paper RJN
+14,66,45,In-house Development RJF,Paper RK9
+14,67,13,In-house Development RJF,Multiple REM
+14,68,76,In-house Development RJF,In-house Development RR8
+14,69,48,In-house Development RJF,Multiple RA9
+14,70,73,In-house Development RJF,EMIS Health
+14,71,55,In-house Development RJF,Multiple RGN
+14,72,7,In-house Development RJF,Multiple RAJ
+14,73,29,In-house Development RJF,Paper RC1
+14,74,12,In-house Development RJF,Paper RPA
+14,75,143,In-house Development RJF,Paper RWD
+14,76,7925,In-house Development RJF,Paper RWE
+14,77,3,In-house Development RJF,Paper RAP
+14,78,42,In-house Development RJF,Paper RP5
+14,79,218,In-house Development RJF,Allscripts
+14,80,34,In-house Development RJF,Paper RTR
+14,81,36,In-house Development RJF,In-house Development RN5
+14,82,1339,In-house Development RJF,Advanced
+15,16,2916,Teleologic,Graphnet
+15,17,138,Teleologic,In-house Development RCB
+15,18,1584,Teleologic,Multiple RAN
+15,19,95,Teleologic,Paper RXW
+15,20,30880,Teleologic,Cerner
+15,21,32,Teleologic,In-house Development RET
+15,22,153,Teleologic,Multiple RWP
+15,23,147,Teleologic,Cambio Healthcare Systems
+15,24,92,Teleologic,CGI
+15,25,65,Teleologic,Paper RW6
+15,26,46,Teleologic,Paper RBT
+15,27,70,Teleologic,TPP
+15,28,73,Teleologic,Paper RTF
+15,29,166,Teleologic,Paper RDE
+15,30,275,Teleologic,Paper RWG
+15,31,177,Teleologic,Paper RLT
+15,32,520,Teleologic,Multiple RX1
+15,33,207,Teleologic,Paper RHQ
+15,34,11,Teleologic,Silverlink Software
+15,35,56,Teleologic,Paper RRJ
+15,36,15,Teleologic,Paper RMC
+15,37,155,Teleologic,Fortrus
+15,38,1018,Teleologic,Multiple R1K
+15,39,364,Teleologic,Paper RTK
+15,40,54,Teleologic,Paper RXR
+15,41,109,Teleologic,Multiple RQ6
+15,42,3105,Teleologic,Paper RPC
+15,43,208,Teleologic,Paper RA2
+15,44,29231,Teleologic,System C
+15,45,547,Teleologic,IMS Maxims
+15,46,30,Teleologic,In-house Development RBV
+15,47,93,Teleologic,In-house Development RL4
+15,48,396,Teleologic,In-house Development RR1
+15,49,1541,Teleologic,Paper RN7
+15,50,106,Teleologic,Meditech
+15,51,226,Teleologic,Multiple R0A
+15,52,36,Teleologic,Multiple RBK
+15,53,72,Teleologic,In-house Development RJL
+15,54,152,Teleologic,In-house Development RAS
+15,55,1485,Teleologic,In-house Development RPY
+15,56,67,Teleologic,Multiple RXN
+15,57,365,Teleologic,Paper RYR
+15,58,149,Teleologic,Paper RCX
+15,59,40,Teleologic,Paper RP4
+15,60,390,Teleologic,Paper RF4
+15,61,6687,Teleologic,Epic Systems
+15,62,69,Teleologic,Paper RNL
+15,63,195,Teleologic,Paper RH8
+15,64,403,Teleologic,Paper RDU
+15,65,32,Teleologic,Paper RJN
+15,66,153,Teleologic,Paper RK9
+15,67,41,Teleologic,Multiple REM
+15,68,132,Teleologic,In-house Development RR8
+15,69,141,Teleologic,Multiple RA9
+15,70,467,Teleologic,EMIS Health
+15,71,516,Teleologic,Multiple RGN
+15,72,191,Teleologic,Multiple RAJ
+15,73,1271,Teleologic,Paper RC1
+15,74,10749,Teleologic,Paper RPA
+15,75,300,Teleologic,Paper RWD
+15,76,9323,Teleologic,Paper RWE
+15,77,169,Teleologic,Paper RAP
+15,78,70,Teleologic,Paper RP5
+15,79,17983,Teleologic,Allscripts
+15,80,110,Teleologic,Paper RTR
+15,81,239,Teleologic,In-house Development RN5
+15,82,6485,Teleologic,Advanced
+16,17,202,Graphnet,In-house Development RCB
+16,18,1561,Graphnet,Multiple RAN
+16,19,55769,Graphnet,Paper RXW
+16,20,65703,Graphnet,Cerner
+16,21,471,Graphnet,In-house Development RET
+16,22,1233,Graphnet,Multiple RWP
+16,23,647,Graphnet,Cambio Healthcare Systems
+16,24,15338,Graphnet,CGI
+16,25,157,Graphnet,Paper RW6
+16,26,2287,Graphnet,Paper RBT
+16,27,94,Graphnet,TPP
+16,28,74,Graphnet,Paper RTF
+16,29,1231,Graphnet,Paper RDE
+16,30,10651,Graphnet,Paper RWG
+16,31,178,Graphnet,Paper RLT
+16,32,304,Graphnet,Multiple RX1
+16,33,303,Graphnet,Paper RHQ
+16,34,23,Graphnet,Silverlink Software
+16,35,119,Graphnet,Paper RRJ
+16,36,97,Graphnet,Paper RMC
+16,37,17249,Graphnet,Fortrus
+16,38,13077,Graphnet,Multiple R1K
+16,39,3675,Graphnet,Paper RTK
+16,40,75,Graphnet,Paper RXR
+16,41,527,Graphnet,Multiple RQ6
+16,42,522,Graphnet,Paper RPC
+16,43,3953,Graphnet,Paper RA2
+16,44,13903,Graphnet,System C
+16,45,3955,Graphnet,IMS Maxims
+16,46,402,Graphnet,In-house Development RBV
+16,47,2616,Graphnet,In-house Development RL4
+16,48,689,Graphnet,In-house Development RR1
+16,49,839,Graphnet,Paper RN7
+16,50,4670,Graphnet,Meditech
+16,51,949,Graphnet,Multiple R0A
+16,52,271,Graphnet,Multiple RBK
+16,53,127,Graphnet,In-house Development RJL
+16,54,22853,Graphnet,In-house Development RAS
+16,55,6710,Graphnet,In-house Development RPY
+16,56,170,Graphnet,Multiple RXN
+16,57,31436,Graphnet,Paper RYR
+16,58,139,Graphnet,Paper RCX
+16,59,85,Graphnet,Paper RP4
+16,60,1786,Graphnet,Paper RF4
+16,61,7441,Graphnet,Epic Systems
+16,62,99,Graphnet,Paper RNL
+16,63,847,Graphnet,Paper RH8
+16,64,9780,Graphnet,Paper RDU
+16,65,258,Graphnet,Paper RJN
+16,66,817,Graphnet,Paper RK9
+16,67,316,Graphnet,Multiple REM
+16,68,222,Graphnet,In-house Development RR8
+16,69,491,Graphnet,Multiple RA9
+16,70,132861,Graphnet,EMIS Health
+16,71,280,Graphnet,Multiple RGN
+16,72,884,Graphnet,Multiple RAJ
+16,73,499,Graphnet,Paper RC1
+16,74,831,Graphnet,Paper RPA
+16,75,354,Graphnet,Paper RWD
+16,76,396,Graphnet,Paper RWE
+16,77,1106,Graphnet,Paper RAP
+16,78,97,Graphnet,Paper RP5
+16,79,4170,Graphnet,Allscripts
+16,80,118,Graphnet,Paper RTR
+16,81,14357,Graphnet,In-house Development RN5
+16,82,550,Graphnet,Advanced
+17,18,36,In-house Development RCB,Multiple RAN
+17,19,89,In-house Development RCB,Paper RXW
+17,20,4182,In-house Development RCB,Cerner
+17,21,79,In-house Development RCB,In-house Development RET
+17,22,86,In-house Development RCB,Multiple RWP
+17,23,22,In-house Development RCB,Cambio Healthcare Systems
+17,24,25,In-house Development RCB,CGI
+17,25,164,In-house Development RCB,Paper RW6
+17,26,62,In-house Development RCB,Paper RBT
+17,27,513,In-house Development RCB,TPP
+17,28,254,In-house Development RCB,Paper RTF
+17,29,40,In-house Development RCB,Paper RDE
+17,30,80,In-house Development RCB,Paper RWG
+17,31,28,In-house Development RCB,Paper RLT
+17,32,296,In-house Development RCB,Multiple RX1
+17,33,1989,In-house Development RCB,Paper RHQ
+17,34,71,In-house Development RCB,Silverlink Software
+17,35,65,In-house Development RCB,Paper RRJ
+17,36,67,In-house Development RCB,Paper RMC
+17,37,29,In-house Development RCB,Fortrus
+17,38,40,In-house Development RCB,Multiple R1K
+17,39,59,In-house Development RCB,Paper RTK
+17,40,135,In-house Development RCB,Paper RXR
+17,41,139,In-house Development RCB,Multiple RQ6
+17,42,32,In-house Development RCB,Paper RPC
+17,43,44,In-house Development RCB,Paper RA2
+17,44,939,In-house Development RCB,System C
+17,45,361,In-house Development RCB,IMS Maxims
+17,46,153,In-house Development RCB,In-house Development RBV
+17,47,76,In-house Development RCB,In-house Development RL4
+17,48,92,In-house Development RCB,In-house Development RR1
+17,49,16,In-house Development RCB,Paper RN7
+17,50,352,In-house Development RCB,Meditech
+17,51,555,In-house Development RCB,Multiple R0A
+17,52,15,In-house Development RCB,Multiple RBK
+17,53,3028,In-house Development RCB,In-house Development RJL
+17,54,22,In-house Development RCB,In-house Development RAS
+17,55,46,In-house Development RCB,In-house Development RPY
+17,56,103,In-house Development RCB,Multiple RXN
+17,57,50,In-house Development RCB,Paper RYR
+17,58,39,In-house Development RCB,Paper RCX
+17,59,4,In-house Development RCB,Paper RP4
+17,60,45,In-house Development RCB,Paper RF4
+17,61,579,In-house Development RCB,Epic Systems
+17,62,155,In-house Development RCB,Paper RNL
+17,63,71,In-house Development RCB,Paper RH8
+17,64,112,In-house Development RCB,Paper RDU
+17,65,34,In-house Development RCB,Paper RJN
+17,66,45,In-house Development RCB,Paper RK9
+17,67,65,In-house Development RCB,Multiple REM
+17,68,23792,In-house Development RCB,In-house Development RR8
+17,69,42,In-house Development RCB,Multiple RA9
+17,70,122,In-house Development RCB,EMIS Health
+17,71,123,In-house Development RCB,Multiple RGN
+17,72,24,In-house Development RCB,Multiple RAJ
+17,73,29,In-house Development RCB,Paper RC1
+17,74,34,In-house Development RCB,Paper RPA
+17,75,405,In-house Development RCB,Paper RWD
+17,76,209,In-house Development RCB,Paper RWE
+17,77,37,In-house Development RCB,Paper RAP
+17,78,1020,In-house Development RCB,Paper RP5
+17,79,686,In-house Development RCB,Allscripts
+17,80,11833,In-house Development RCB,Paper RTR
+17,81,85,In-house Development RCB,In-house Development RN5
+17,82,118,In-house Development RCB,Advanced
+18,19,19,Multiple RAN,Paper RXW
+18,20,24242,Multiple RAN,Cerner
+18,21,14,Multiple RAN,In-house Development RET
+18,22,81,Multiple RAN,Multiple RWP
+18,23,909,Multiple RAN,Cambio Healthcare Systems
+18,24,148,Multiple RAN,CGI
+18,25,9,Multiple RAN,Paper RW6
+18,26,2,Multiple RAN,Paper RBT
+18,27,15,Multiple RAN,TPP
+18,28,5,Multiple RAN,Paper RTF
+18,29,737,Multiple RAN,Paper RDE
+18,30,4758,Multiple RAN,Paper RWG
+18,31,25,Multiple RAN,Paper RLT
+18,32,105,Multiple RAN,Multiple RX1
+18,33,85,Multiple RAN,Paper RHQ
+18,34,7,Multiple RAN,Silverlink Software
+18,35,56,Multiple RAN,Paper RRJ
+18,36,6,Multiple RAN,Paper RMC
+18,37,170,Multiple RAN,Fortrus
+18,38,5384,Multiple RAN,Multiple R1K
+18,39,918,Multiple RAN,Paper RTK
+18,40,16,Multiple RAN,Paper RXR
+18,41,27,Multiple RAN,Multiple RQ6
+18,42,170,Multiple RAN,Paper RPC
+18,43,380,Multiple RAN,Paper RA2
+18,44,3871,Multiple RAN,System C
+18,45,271,Multiple RAN,IMS Maxims
+18,46,3,Multiple RAN,In-house Development RBV
+18,47,50,Multiple RAN,In-house Development RL4
+18,48,39,Multiple RAN,In-house Development RR1
+18,49,631,Multiple RAN,Paper RN7
+18,50,27,Multiple RAN,Meditech
+18,51,51,Multiple RAN,Multiple R0A
+18,52,15,Multiple RAN,Multiple RBK
+18,53,31,Multiple RAN,In-house Development RJL
+18,54,1869,Multiple RAN,In-house Development RAS
+18,55,575,Multiple RAN,In-house Development RPY
+18,56,20,Multiple RAN,Multiple RXN
+18,57,803,Multiple RAN,Paper RYR
+18,58,139,Multiple RAN,Paper RCX
+18,59,62,Multiple RAN,Paper RP4
+18,60,2701,Multiple RAN,Paper RF4
+18,61,9883,Multiple RAN,Epic Systems
+18,62,12,Multiple RAN,Paper RNL
+18,63,146,Multiple RAN,Paper RH8
+18,64,1415,Multiple RAN,Paper RDU
+18,65,12,Multiple RAN,Paper RJN
+18,66,76,Multiple RAN,Paper RK9
+18,67,9,Multiple RAN,Multiple REM
+18,68,83,Multiple RAN,In-house Development RR8
+18,69,50,Multiple RAN,Multiple RA9
+18,70,802,Multiple RAN,EMIS Health
+18,71,467,Multiple RAN,Multiple RGN
+18,72,1539,Multiple RAN,Multiple RAJ
+18,73,584,Multiple RAN,Paper RC1
+18,74,818,Multiple RAN,Paper RPA
+18,75,233,Multiple RAN,Paper RWD
+18,76,277,Multiple RAN,Paper RWE
+18,77,1262,Multiple RAN,Paper RAP
+18,78,24,Multiple RAN,Paper RP5
+18,79,1887,Multiple RAN,Allscripts
+18,80,24,Multiple RAN,Paper RTR
+18,81,258,Multiple RAN,In-house Development RN5
+18,82,130,Multiple RAN,Advanced
+19,20,2281,Paper RXW,Cerner
+19,21,398,Paper RXW,In-house Development RET
+19,22,1853,Paper RXW,Multiple RWP
+19,23,16,Paper RXW,Cambio Healthcare Systems
+19,24,28,Paper RXW,CGI
+19,25,58,Paper RXW,Paper RW6
+19,26,1205,Paper RXW,Paper RBT
+19,27,24,Paper RXW,TPP
+19,28,36,Paper RXW,Paper RTF
+19,29,35,Paper RXW,Paper RDE
+19,30,30,Paper RXW,Paper RWG
+19,31,77,Paper RXW,Paper RLT
+19,32,115,Paper RXW,Multiple RX1
+19,33,248,Paper RXW,Paper RHQ
+19,34,6,Paper RXW,Silverlink Software
+19,35,163,Paper RXW,Paper RRJ
+19,36,30,Paper RXW,Paper RMC
+19,37,61,Paper RXW,Fortrus
+19,38,56,Paper RXW,Multiple R1K
+19,39,27,Paper RXW,Paper RTK
+19,40,30,Paper RXW,Paper RXR
+19,41,312,Paper RXW,Multiple RQ6
+19,42,16,Paper RXW,Paper RPC
+19,43,39,Paper RXW,Paper RA2
+19,44,12347,Paper RXW,System C
+19,45,3597,Paper RXW,IMS Maxims
+19,46,575,Paper RXW,In-house Development RBV
+19,47,10053,Paper RXW,In-house Development RL4
+19,48,1134,Paper RXW,In-house Development RR1
+19,49,16,Paper RXW,Paper RN7
+19,50,1302,Paper RXW,Meditech
+19,51,423,Paper RXW,Multiple R0A
+19,52,570,Paper RXW,Multiple RBK
+19,53,20,Paper RXW,In-house Development RJL
+19,54,20,Paper RXW,In-house Development RAS
+19,55,87,Paper RXW,In-house Development RPY
+19,56,56,Paper RXW,Multiple RXN
+19,57,26,Paper RXW,Paper RYR
+19,58,12,Paper RXW,Paper RCX
+19,60,35,Paper RXW,Paper RF4
+19,61,376,Paper RXW,Epic Systems
+19,62,22,Paper RXW,Paper RNL
+19,63,61,Paper RXW,Paper RH8
+19,64,118,Paper RXW,Paper RDU
+19,65,49,Paper RXW,Paper RJN
+19,66,67,Paper RXW,Paper RK9
+19,67,111,Paper RXW,Multiple REM
+19,68,91,Paper RXW,In-house Development RR8
+19,69,55,Paper RXW,Multiple RA9
+19,70,92,Paper RXW,EMIS Health
+19,71,45,Paper RXW,Multiple RGN
+19,72,30,Paper RXW,Multiple RAJ
+19,73,24,Paper RXW,Paper RC1
+19,74,12,Paper RXW,Paper RPA
+19,75,84,Paper RXW,Paper RWD
+19,76,155,Paper RXW,Paper RWE
+19,77,18,Paper RXW,Paper RAP
+19,78,30,Paper RXW,Paper RP5
+19,79,377,Paper RXW,Allscripts
+19,80,38,Paper RXW,Paper RTR
+19,81,57,Paper RXW,In-house Development RN5
+19,82,550,Paper RXW,Advanced
+20,21,13442,Cerner,In-house Development RET
+20,22,10060,Cerner,Multiple RWP
+20,23,25744,Cerner,Cambio Healthcare Systems
+20,24,1389,Cerner,CGI
+20,25,3271,Cerner,Paper RW6
+20,26,854,Cerner,Paper RBT
+20,27,28783,Cerner,TPP
+20,28,160662,Cerner,Paper RTF
+20,29,9357,Cerner,Paper RDE
+20,30,29508,Cerner,Paper RWG
+20,31,1398,Cerner,Paper RLT
+20,32,4074,Cerner,Multiple RX1
+20,33,6603,Cerner,Paper RHQ
+20,34,24706,Cerner,Silverlink Software
+20,35,9582,Cerner,Paper RRJ
+20,36,722,Cerner,Paper RMC
+20,37,2803,Cerner,Fortrus
+20,38,151974,Cerner,Multiple R1K
+20,39,49465,Cerner,Paper RTK
+20,40,2579,Cerner,Paper RXR
+20,41,16515,Cerner,Multiple RQ6
+20,42,22790,Cerner,Paper RPC
+20,43,22398,Cerner,Paper RA2
+20,44,391326,Cerner,System C
+20,45,22719,Cerner,IMS Maxims
+20,46,1348,Cerner,In-house Development RBV
+20,47,10477,Cerner,In-house Development RL4
+20,48,60216,Cerner,In-house Development RR1
+20,49,35143,Cerner,Paper RN7
+20,50,88555,Cerner,Meditech
+20,51,7563,Cerner,Multiple R0A
+20,52,17339,Cerner,Multiple RBK
+20,53,1111,Cerner,In-house Development RJL
+20,54,41233,Cerner,In-house Development RAS
+20,55,64816,Cerner,In-house Development RPY
+20,56,1323,Cerner,Multiple RXN
+20,57,11113,Cerner,Paper RYR
+20,58,2313,Cerner,Paper RCX
+20,59,5760,Cerner,Paper RP4
+20,60,123402,Cerner,Paper RF4
+20,61,337087,Cerner,Epic Systems
+20,62,25228,Cerner,Paper RNL
+20,63,3690,Cerner,Paper RH8
+20,64,91214,Cerner,Paper RDU
+20,65,418,Cerner,Paper RJN
+20,66,2522,Cerner,Paper RK9
+20,67,5716,Cerner,Multiple REM
+20,68,60673,Cerner,In-house Development RR8
+20,69,1961,Cerner,Multiple RA9
+20,70,9752,Cerner,EMIS Health
+20,71,3511,Cerner,Multiple RGN
+20,72,10939,Cerner,Multiple RAJ
+20,73,8796,Cerner,Paper RC1
+20,74,6633,Cerner,Paper RPA
+20,75,2565,Cerner,Paper RWD
+20,76,5418,Cerner,Paper RWE
+20,77,116379,Cerner,Paper RAP
+20,78,1221,Cerner,Paper RP5
+20,79,218810,Cerner,Allscripts
+20,80,14502,Cerner,Paper RTR
+20,81,15872,Cerner,In-house Development RN5
+20,82,22953,Cerner,Advanced
+21,22,23,In-house Development RET,Multiple RWP
+21,23,2,In-house Development RET,Cambio Healthcare Systems
+21,24,1,In-house Development RET,CGI
+21,25,134,In-house Development RET,Paper RW6
+21,26,1269,In-house Development RET,Paper RBT
+21,27,46,In-house Development RET,TPP
+21,28,15,In-house Development RET,Paper RTF
+21,30,13,In-house Development RET,Paper RWG
+21,31,4,In-house Development RET,Paper RLT
+21,32,48,In-house Development RET,Multiple RX1
+21,33,118,In-house Development RET,Paper RHQ
+21,34,1,In-house Development RET,Silverlink Software
+21,35,16,In-house Development RET,Paper RRJ
+21,36,190,In-house Development RET,Paper RMC
+21,37,1,In-house Development RET,Fortrus
+21,38,5,In-house Development RET,Multiple R1K
+21,39,1,In-house Development RET,Paper RTK
+21,40,365,In-house Development RET,Paper RXR
+21,41,21576,In-house Development RET,Multiple RQ6
+21,42,1,In-house Development RET,Paper RPC
+21,44,24566,In-house Development RET,System C
+21,45,468,In-house Development RET,IMS Maxims
+21,46,113,In-house Development RET,In-house Development RBV
+21,47,60,In-house Development RET,In-house Development RL4
+21,48,24,In-house Development RET,In-house Development RR1
+21,49,14,In-house Development RET,Paper RN7
+21,50,14172,In-house Development RET,Meditech
+21,51,874,In-house Development RET,Multiple R0A
+21,52,7,In-house Development RET,Multiple RBK
+21,53,49,In-house Development RET,In-house Development RJL
+21,54,2,In-house Development RET,In-house Development RAS
+21,55,3,In-house Development RET,In-house Development RPY
+21,56,1293,In-house Development RET,Multiple RXN
+21,57,2,In-house Development RET,Paper RYR
+21,58,5,In-house Development RET,Paper RCX
+21,59,2,In-house Development RET,Paper RP4
+21,60,3,In-house Development RET,Paper RF4
+21,61,96,In-house Development RET,Epic Systems
+21,62,168,In-house Development RET,Paper RNL
+21,63,10,In-house Development RET,Paper RH8
+21,64,16,In-house Development RET,Paper RDU
+21,65,153,In-house Development RET,Paper RJN
+21,66,3,In-house Development RET,Paper RK9
+21,67,24773,In-house Development RET,Multiple REM
+21,68,107,In-house Development RET,In-house Development RR8
+21,69,6,In-house Development RET,Multiple RA9
+21,70,14,In-house Development RET,EMIS Health
+21,71,4,In-house Development RET,Multiple RGN
+21,72,3,In-house Development RET,Multiple RAJ
+21,73,1,In-house Development RET,Paper RC1
+21,74,5,In-house Development RET,Paper RPA
+21,75,33,In-house Development RET,Paper RWD
+21,76,44,In-house Development RET,Paper RWE
+21,77,1,In-house Development RET,Paper RAP
+21,78,29,In-house Development RET,Paper RP5
+21,79,5679,In-house Development RET,Allscripts
+21,80,23,In-house Development RET,Paper RTR
+21,81,6,In-house Development RET,In-house Development RN5
+21,82,19,In-house Development RET,Advanced
+22,23,15,Multiple RWP,Cambio Healthcare Systems
+22,24,44,Multiple RWP,CGI
+22,25,61,Multiple RWP,Paper RW6
+22,26,57,Multiple RWP,Paper RBT
+22,27,39,Multiple RWP,TPP
+22,28,47,Multiple RWP,Paper RTF
+22,29,37,Multiple RWP,Paper RDE
+22,30,49,Multiple RWP,Paper RWG
+22,31,190,Multiple RWP,Paper RLT
+22,32,209,Multiple RWP,Multiple RX1
+22,33,271,Multiple RWP,Paper RHQ
+22,34,6,Multiple RWP,Silverlink Software
+22,35,7047,Multiple RWP,Paper RRJ
+22,36,22,Multiple RWP,Paper RMC
+22,37,134,Multiple RWP,Fortrus
+22,38,72,Multiple RWP,Multiple R1K
+22,39,57,Multiple RWP,Paper RTK
+22,40,34,Multiple RWP,Paper RXR
+22,41,109,Multiple RWP,Multiple RQ6
+22,42,8,Multiple RWP,Paper RPC
+22,43,38,Multiple RWP,Paper RA2
+22,44,1273,Multiple RWP,System C
+22,45,9857,Multiple RWP,IMS Maxims
+22,46,97,Multiple RWP,In-house Development RBV
+22,47,1684,Multiple RWP,In-house Development RL4
+22,48,6109,Multiple RWP,In-house Development RR1
+22,49,16,Multiple RWP,Paper RN7
+22,50,94,Multiple RWP,Meditech
+22,51,157,Multiple RWP,Multiple R0A
+22,52,272,Multiple RWP,Multiple RBK
+22,53,37,Multiple RWP,In-house Development RJL
+22,54,50,Multiple RWP,In-house Development RAS
+22,55,96,Multiple RWP,In-house Development RPY
+22,56,26,Multiple RWP,Multiple RXN
+22,57,52,Multiple RWP,Paper RYR
+22,58,17,Multiple RWP,Paper RCX
+22,60,19,Multiple RWP,Paper RF4
+22,61,466,Multiple RWP,Epic Systems
+22,62,34,Multiple RWP,Paper RNL
+22,63,145,Multiple RWP,Paper RH8
+22,64,145,Multiple RWP,Paper RDU
+22,65,13,Multiple RWP,Paper RJN
+22,66,125,Multiple RWP,Paper RK9
+22,67,28,Multiple RWP,Multiple REM
+22,68,113,Multiple RWP,In-house Development RR8
+22,69,173,Multiple RWP,Multiple RA9
+22,70,156,Multiple RWP,EMIS Health
+22,71,70,Multiple RWP,Multiple RGN
+22,72,26,Multiple RWP,Multiple RAJ
+22,73,27,Multiple RWP,Paper RC1
+22,74,29,Multiple RWP,Paper RPA
+22,75,88,Multiple RWP,Paper RWD
+22,76,262,Multiple RWP,Paper RWE
+22,77,18,Multiple RWP,Paper RAP
+22,78,39,Multiple RWP,Paper RP5
+22,79,216,Multiple RWP,Allscripts
+22,80,30,Multiple RWP,Paper RTR
+22,81,87,Multiple RWP,In-house Development RN5
+22,82,7325,Multiple RWP,Advanced
+23,24,25,Cambio Healthcare Systems,CGI
+23,25,12,Cambio Healthcare Systems,Paper RW6
+23,26,7,Cambio Healthcare Systems,Paper RBT
+23,27,7,Cambio Healthcare Systems,TPP
+23,28,12,Cambio Healthcare Systems,Paper RTF
+23,29,548,Cambio Healthcare Systems,Paper RDE
+23,30,273,Cambio Healthcare Systems,Paper RWG
+23,31,5,Cambio Healthcare Systems,Paper RLT
+23,32,48,Cambio Healthcare Systems,Multiple RX1
+23,33,20,Cambio Healthcare Systems,Paper RHQ
+23,34,3,Cambio Healthcare Systems,Silverlink Software
+23,35,1,Cambio Healthcare Systems,Paper RRJ
+23,36,19,Cambio Healthcare Systems,Paper RMC
+23,37,22,Cambio Healthcare Systems,Fortrus
+23,38,443,Cambio Healthcare Systems,Multiple R1K
+23,39,42,Cambio Healthcare Systems,Paper RTK
+23,40,12,Cambio Healthcare Systems,Paper RXR
+23,41,15,Cambio Healthcare Systems,Multiple RQ6
+23,42,20,Cambio Healthcare Systems,Paper RPC
+23,43,17,Cambio Healthcare Systems,Paper RA2
+23,44,3595,Cambio Healthcare Systems,System C
+23,45,101,Cambio Healthcare Systems,IMS Maxims
+23,46,3,Cambio Healthcare Systems,In-house Development RBV
+23,47,14,Cambio Healthcare Systems,In-house Development RL4
+23,48,14,Cambio Healthcare Systems,In-house Development RR1
+23,49,73,Cambio Healthcare Systems,Paper RN7
+23,50,16,Cambio Healthcare Systems,Meditech
+23,51,37,Cambio Healthcare Systems,Multiple R0A
+23,52,7,Cambio Healthcare Systems,Multiple RBK
+23,53,16,Cambio Healthcare Systems,In-house Development RJL
+23,54,38,Cambio Healthcare Systems,In-house Development RAS
+23,55,173,Cambio Healthcare Systems,In-house Development RPY
+23,56,8,Cambio Healthcare Systems,Multiple RXN
+23,57,38,Cambio Healthcare Systems,Paper RYR
+23,58,90,Cambio Healthcare Systems,Paper RCX
+23,59,367,Cambio Healthcare Systems,Paper RP4
+23,60,5723,Cambio Healthcare Systems,Paper RF4
+23,61,20620,Cambio Healthcare Systems,Epic Systems
+23,62,14,Cambio Healthcare Systems,Paper RNL
+23,63,30,Cambio Healthcare Systems,Paper RH8
+23,64,83,Cambio Healthcare Systems,Paper RDU
+23,65,7,Cambio Healthcare Systems,Paper RJN
+23,66,18,Cambio Healthcare Systems,Paper RK9
+23,67,4,Cambio Healthcare Systems,Multiple REM
+23,68,40,Cambio Healthcare Systems,In-house Development RR8
+23,69,23,Cambio Healthcare Systems,Multiple RA9
+23,70,87,Cambio Healthcare Systems,EMIS Health
+23,71,127,Cambio Healthcare Systems,Multiple RGN
+23,72,376,Cambio Healthcare Systems,Multiple RAJ
+23,73,46,Cambio Healthcare Systems,Paper RC1
+23,74,56,Cambio Healthcare Systems,Paper RPA
+23,75,61,Cambio Healthcare Systems,Paper RWD
+23,76,33,Cambio Healthcare Systems,Paper RWE
+23,77,4709,Cambio Healthcare Systems,Paper RAP
+23,78,19,Cambio Healthcare Systems,Paper RP5
+23,79,471,Cambio Healthcare Systems,Allscripts
+23,80,27,Cambio Healthcare Systems,Paper RTR
+23,81,47,Cambio Healthcare Systems,In-house Development RN5
+23,82,37,Cambio Healthcare Systems,Advanced
+24,25,16,CGI,Paper RW6
+24,26,10,CGI,Paper RBT
+24,27,8,CGI,TPP
+24,28,10,CGI,Paper RTF
+24,29,33,CGI,Paper RDE
+24,30,38,CGI,Paper RWG
+24,31,15,CGI,Paper RLT
+24,32,49,CGI,Multiple RX1
+24,33,26,CGI,Paper RHQ
+24,34,1,CGI,Silverlink Software
+24,35,5,CGI,Paper RRJ
+24,36,10,CGI,Paper RMC
+24,37,36,CGI,Fortrus
+24,38,54,CGI,Multiple R1K
+24,39,112,CGI,Paper RTK
+24,40,15,CGI,Paper RXR
+24,41,17,CGI,Multiple RQ6
+24,42,52,CGI,Paper RPC
+24,43,116,CGI,Paper RA2
+24,44,307,CGI,System C
+24,45,126,CGI,IMS Maxims
+24,46,8,CGI,In-house Development RBV
+24,47,30,CGI,In-house Development RL4
+24,48,52,CGI,In-house Development RR1
+24,49,44,CGI,Paper RN7
+24,50,20,CGI,Meditech
+24,51,31,CGI,Multiple R0A
+24,52,13,CGI,Multiple RBK
+24,53,12,CGI,In-house Development RJL
+24,54,40,CGI,In-house Development RAS
+24,55,136,CGI,In-house Development RPY
+24,56,12,CGI,Multiple RXN
+24,57,185,CGI,Paper RYR
+24,58,19,CGI,Paper RCX
+24,60,43,CGI,Paper RF4
+24,61,432,CGI,Epic Systems
+24,62,2,CGI,Paper RNL
+24,63,50,CGI,Paper RH8
+24,64,219,CGI,Paper RDU
+24,65,5,CGI,Paper RJN
+24,66,44,CGI,Paper RK9
+24,67,2,CGI,Multiple REM
+24,68,18,CGI,In-house Development RR8
+24,69,23,CGI,Multiple RA9
+24,70,19305,CGI,EMIS Health
+24,71,38,CGI,Multiple RGN
+24,72,61,CGI,Multiple RAJ
+24,73,19,CGI,Paper RC1
+24,74,41,CGI,Paper RPA
+24,75,37,CGI,Paper RWD
+24,76,58,CGI,Paper RWE
+24,77,14,CGI,Paper RAP
+24,78,17,CGI,Paper RP5
+24,79,180,CGI,Allscripts
+24,80,15,CGI,Paper RTR
+24,81,240,CGI,In-house Development RN5
+24,82,53,CGI,Advanced
+25,26,184,Paper RW6,Paper RBT
+25,27,184,Paper RW6,TPP
+25,28,59,Paper RW6,Paper RTF
+25,29,14,Paper RW6,Paper RDE
+25,30,25,Paper RW6,Paper RWG
+25,31,19,Paper RW6,Paper RLT
+25,32,86,Paper RW6,Multiple RX1
+25,33,573,Paper RW6,Paper RHQ
+25,34,14,Paper RW6,Silverlink Software
+25,35,58,Paper RW6,Paper RRJ
+25,36,10937,Paper RW6,Paper RMC
+25,37,37,Paper RW6,Fortrus
+25,38,73,Paper RW6,Multiple R1K
+25,39,27,Paper RW6,Paper RTK
+25,40,6366,Paper RW6,Paper RXR
+25,41,561,Paper RW6,Multiple RQ6
+25,42,3,Paper RW6,Paper RPC
+25,43,19,Paper RW6,Paper RA2
+25,44,962,Paper RW6,System C
+25,45,854,Paper RW6,IMS Maxims
+25,46,23649,Paper RW6,In-house Development RBV
+25,47,73,Paper RW6,In-house Development RL4
+25,48,113,Paper RW6,In-house Development RR1
+25,49,18,Paper RW6,Paper RN7
+25,50,401,Paper RW6,Meditech
+25,51,87503,Paper RW6,Multiple R0A
+25,52,31,Paper RW6,Multiple RBK
+25,53,67,Paper RW6,In-house Development RJL
+25,54,23,Paper RW6,In-house Development RAS
+25,55,7,Paper RW6,In-house Development RPY
+25,56,1046,Paper RW6,Multiple RXN
+25,57,15,Paper RW6,Paper RYR
+25,58,18,Paper RW6,Paper RCX
+25,60,72,Paper RW6,Paper RF4
+25,61,209,Paper RW6,Epic Systems
+25,62,75,Paper RW6,Paper RNL
+25,63,35,Paper RW6,Paper RH8
+25,64,66,Paper RW6,Paper RDU
+25,65,183,Paper RW6,Paper RJN
+25,66,36,Paper RW6,Paper RK9
+25,67,185,Paper RW6,Multiple REM
+25,68,969,Paper RW6,In-house Development RR8
+25,69,60,Paper RW6,Multiple RA9
+25,70,57,Paper RW6,EMIS Health
+25,71,42,Paper RW6,Multiple RGN
+25,72,22,Paper RW6,Multiple RAJ
+25,73,35,Paper RW6,Paper RC1
+25,74,13,Paper RW6,Paper RPA
+25,75,74,Paper RW6,Paper RWD
+25,76,66,Paper RW6,Paper RWE
+25,77,35,Paper RW6,Paper RAP
+25,78,67,Paper RW6,Paper RP5
+25,79,72811,Paper RW6,Allscripts
+25,80,95,Paper RW6,Paper RTR
+25,81,27,Paper RW6,In-house Development RN5
+25,82,68,Paper RW6,Advanced
+26,27,22,Paper RBT,TPP
+26,28,28,Paper RBT,Paper RTF
+26,29,10,Paper RBT,Paper RDE
+26,30,17,Paper RBT,Paper RWG
+26,31,24,Paper RBT,Paper RLT
+26,32,65,Paper RBT,Multiple RX1
+26,33,165,Paper RBT,Paper RHQ
+26,34,4,Paper RBT,Silverlink Software
+26,35,23,Paper RBT,Paper RRJ
+26,36,61,Paper RBT,Paper RMC
+26,37,17,Paper RBT,Fortrus
+26,38,28,Paper RBT,Multiple R1K
+26,39,24,Paper RBT,Paper RTK
+26,40,45,Paper RBT,Paper RXR
+26,41,2317,Paper RBT,Multiple RQ6
+26,42,3,Paper RBT,Paper RPC
+26,43,17,Paper RBT,Paper RA2
+26,44,24454,Paper RBT,System C
+26,45,199,Paper RBT,IMS Maxims
+26,46,6771,Paper RBT,In-house Development RBV
+26,47,114,Paper RBT,In-house Development RL4
+26,48,58,Paper RBT,In-house Development RR1
+26,49,8,Paper RBT,Paper RN7
+26,50,6158,Paper RBT,Meditech
+26,51,6664,Paper RBT,Multiple R0A
+26,52,36,Paper RBT,Multiple RBK
+26,53,14,Paper RBT,In-house Development RJL
+26,54,10,Paper RBT,In-house Development RAS
+26,55,21,Paper RBT,In-house Development RPY
+26,56,101,Paper RBT,Multiple RXN
+26,57,6,Paper RBT,Paper RYR
+26,58,13,Paper RBT,Paper RCX
+26,60,19,Paper RBT,Paper RF4
+26,61,139,Paper RBT,Epic Systems
+26,62,49,Paper RBT,Paper RNL
+26,63,40,Paper RBT,Paper RH8
+26,64,28,Paper RBT,Paper RDU
+26,65,4434,Paper RBT,Paper RJN
+26,66,32,Paper RBT,Paper RK9
+26,67,2816,Paper RBT,Multiple REM
+26,68,64,Paper RBT,In-house Development RR8
+26,69,22,Paper RBT,Multiple RA9
+26,70,38,Paper RBT,EMIS Health
+26,71,22,Paper RBT,Multiple RGN
+26,72,6,Paper RBT,Multiple RAJ
+26,73,14,Paper RBT,Paper RC1
+26,74,13,Paper RBT,Paper RPA
+26,75,34,Paper RBT,Paper RWD
+26,76,76,Paper RBT,Paper RWE
+26,77,3,Paper RBT,Paper RAP
+26,78,31,Paper RBT,Paper RP5
+26,79,4604,Paper RBT,Allscripts
+26,80,35,Paper RBT,Paper RTR
+26,81,16,Paper RBT,In-house Development RN5
+26,82,62,Paper RBT,Advanced
+27,28,72,TPP,Paper RTF
+27,29,18,TPP,Paper RDE
+27,30,24,TPP,Paper RWG
+27,31,16,TPP,Paper RLT
+27,32,281,TPP,Multiple RX1
+27,33,51480,TPP,Paper RHQ
+27,34,3,TPP,Silverlink Software
+27,35,53,TPP,Paper RRJ
+27,36,46,TPP,Paper RMC
+27,37,23,TPP,Fortrus
+27,38,31,TPP,Multiple R1K
+27,39,21,TPP,Paper RTK
+27,40,7078,TPP,Paper RXR
+27,41,94,TPP,Multiple RQ6
+27,42,2,TPP,Paper RPC
+27,43,19,TPP,Paper RA2
+27,44,1190,TPP,System C
+27,45,350,TPP,IMS Maxims
+27,46,112,TPP,In-house Development RBV
+27,47,35,TPP,In-house Development RL4
+27,48,63,TPP,In-house Development RR1
+27,49,9,TPP,Paper RN7
+27,50,91,TPP,Meditech
+27,51,505,TPP,Multiple R0A
+27,52,17,TPP,Multiple RBK
+27,53,241,TPP,In-house Development RJL
+27,54,16,TPP,In-house Development RAS
+27,55,20,TPP,In-house Development RPY
+27,56,707,TPP,Multiple RXN
+27,57,26,TPP,Paper RYR
+27,58,28,TPP,Paper RCX
+27,59,3,TPP,Paper RP4
+27,60,18,TPP,Paper RF4
+27,61,157,TPP,Epic Systems
+27,62,83,TPP,Paper RNL
+27,63,27,TPP,Paper RH8
+27,64,46,TPP,Paper RDU
+27,65,20,TPP,Paper RJN
+27,66,33,TPP,Paper RK9
+27,67,38,TPP,Multiple REM
+27,68,14626,TPP,In-house Development RR8
+27,69,37,TPP,Multiple RA9
+27,70,36,TPP,EMIS Health
+27,71,48,TPP,Multiple RGN
+27,72,10,TPP,Multiple RAJ
+27,73,23,TPP,Paper RC1
+27,74,18,TPP,Paper RPA
+27,75,415,TPP,Paper RWD
+27,76,99,TPP,Paper RWE
+27,77,16,TPP,Paper RAP
+27,78,16215,TPP,Paper RP5
+27,79,490,TPP,Allscripts
+27,80,133,TPP,Paper RTR
+27,81,31,TPP,In-house Development RN5
+27,82,95,TPP,Advanced
+28,29,25,Paper RTF,Paper RDE
+28,30,25,Paper RTF,Paper RWG
+28,31,20,Paper RTF,Paper RLT
+28,32,80,Paper RTF,Multiple RX1
+28,33,210,Paper RTF,Paper RHQ
+28,34,747,Paper RTF,Silverlink Software
+28,35,4,Paper RTF,Paper RRJ
+28,36,16,Paper RTF,Paper RMC
+28,37,12,Paper RTF,Fortrus
+28,38,20,Paper RTF,Multiple R1K
+28,39,27,Paper RTF,Paper RTK
+28,40,45,Paper RTF,Paper RXR
+28,41,51,Paper RTF,Multiple RQ6
+28,42,7,Paper RTF,Paper RPC
+28,43,17,Paper RTF,Paper RA2
+28,44,4178,Paper RTF,System C
+28,45,132,Paper RTF,IMS Maxims
+28,46,18,Paper RTF,In-house Development RBV
+28,47,32,Paper RTF,In-house Development RL4
+28,48,44,Paper RTF,In-house Development RR1
+28,49,8,Paper RTF,Paper RN7
+28,50,2089,Paper RTF,Meditech
+28,51,159,Paper RTF,Multiple R0A
+28,52,6,Paper RTF,Multiple RBK
+28,53,49,Paper RTF,In-house Development RJL
+28,54,16,Paper RTF,In-house Development RAS
+28,55,13,Paper RTF,In-house Development RPY
+28,56,75,Paper RTF,Multiple RXN
+28,57,20,Paper RTF,Paper RYR
+28,58,9,Paper RTF,Paper RCX
+28,59,1,Paper RTF,Paper RP4
+28,60,27,Paper RTF,Paper RF4
+28,61,149,Paper RTF,Epic Systems
+28,62,7873,Paper RTF,Paper RNL
+28,63,33,Paper RTF,Paper RH8
+28,64,41,Paper RTF,Paper RDU
+28,65,17,Paper RTF,Paper RJN
+28,66,23,Paper RTF,Paper RK9
+28,67,33,Paper RTF,Multiple REM
+28,68,189,Paper RTF,In-house Development RR8
+28,69,25,Paper RTF,Multiple RA9
+28,70,50,Paper RTF,EMIS Health
+28,71,72,Paper RTF,Multiple RGN
+28,72,20,Paper RTF,Multiple RAJ
+28,73,22,Paper RTF,Paper RC1
+28,74,30,Paper RTF,Paper RPA
+28,75,101,Paper RTF,Paper RWD
+28,76,90,Paper RTF,Paper RWE
+28,77,11,Paper RTF,Paper RAP
+28,78,85,Paper RTF,Paper RP5
+28,79,196,Paper RTF,Allscripts
+28,80,600,Paper RTF,Paper RTR
+28,81,44,Paper RTF,In-house Development RN5
+28,82,41,Paper RTF,Advanced
+29,30,46,Paper RDE,Paper RWG
+29,31,12,Paper RDE,Paper RLT
+29,32,51,Paper RDE,Multiple RX1
+29,33,60,Paper RDE,Paper RHQ
+29,34,4,Paper RDE,Silverlink Software
+29,35,4,Paper RDE,Paper RRJ
+29,36,9,Paper RDE,Paper RMC
+29,37,26,Paper RDE,Fortrus
+29,38,248,Paper RDE,Multiple R1K
+29,39,64,Paper RDE,Paper RTK
+29,40,9,Paper RDE,Paper RXR
+29,41,19,Paper RDE,Multiple RQ6
+29,42,29,Paper RDE,Paper RPC
+29,43,30,Paper RDE,Paper RA2
+29,44,5577,Paper RDE,System C
+29,45,134,Paper RDE,IMS Maxims
+29,46,4,Paper RDE,In-house Development RBV
+29,47,14,Paper RDE,In-house Development RL4
+29,48,31,Paper RDE,In-house Development RR1
+29,49,71,Paper RDE,Paper RN7
+29,50,35,Paper RDE,Meditech
+29,51,40,Paper RDE,Multiple R0A
+29,52,10,Paper RDE,Multiple RBK
+29,53,22,Paper RDE,In-house Development RJL
+29,54,53,Paper RDE,In-house Development RAS
+29,55,371,Paper RDE,In-house Development RPY
+29,56,7,Paper RDE,Multiple RXN
+29,57,43,Paper RDE,Paper RYR
+29,58,89,Paper RDE,Paper RCX
+29,59,338,Paper RDE,Paper RP4
+29,60,2835,Paper RDE,Paper RF4
+29,61,6461,Paper RDE,Epic Systems
+29,62,20,Paper RDE,Paper RNL
+29,63,38,Paper RDE,Paper RH8
+29,64,145,Paper RDE,Paper RDU
+29,65,10,Paper RDE,Paper RJN
+29,66,39,Paper RDE,Paper RK9
+29,67,11,Paper RDE,Multiple REM
+29,68,41,Paper RDE,In-house Development RR8
+29,69,41,Paper RDE,Multiple RA9
+29,70,98,Paper RDE,EMIS Health
+29,71,115,Paper RDE,Multiple RGN
+29,72,1413,Paper RDE,Multiple RAJ
+29,73,37,Paper RDE,Paper RC1
+29,74,61,Paper RDE,Paper RPA
+29,75,77,Paper RDE,Paper RWD
+29,76,88,Paper RDE,Paper RWE
+29,77,174,Paper RDE,Paper RAP
+29,78,8,Paper RDE,Paper RP5
+29,79,581,Paper RDE,Allscripts
+29,80,37,Paper RDE,Paper RTR
+29,81,105,Paper RDE,In-house Development RN5
+29,82,35,Paper RDE,Advanced
+30,31,18,Paper RWG,Paper RLT
+30,32,160,Paper RWG,Multiple RX1
+30,33,59,Paper RWG,Paper RHQ
+30,34,4,Paper RWG,Silverlink Software
+30,35,1,Paper RWG,Paper RRJ
+30,36,14,Paper RWG,Paper RMC
+30,37,89,Paper RWG,Fortrus
+30,38,8253,Paper RWG,Multiple R1K
+30,39,150,Paper RWG,Paper RTK
+30,40,30,Paper RWG,Paper RXR
+30,41,29,Paper RWG,Multiple RQ6
+30,42,36,Paper RWG,Paper RPC
+30,43,92,Paper RWG,Paper RA2
+30,44,10595,Paper RWG,System C
+30,45,186,Paper RWG,IMS Maxims
+30,46,1,Paper RWG,In-house Development RBV
+30,47,25,Paper RWG,In-house Development RL4
+30,48,47,Paper RWG,In-house Development RR1
+30,49,42,Paper RWG,Paper RN7
+30,50,32,Paper RWG,Meditech
+30,51,101,Paper RWG,Multiple R0A
+30,52,7,Paper RWG,Multiple RBK
+30,53,24,Paper RWG,In-house Development RJL
+30,54,12433,Paper RWG,In-house Development RAS
+30,55,384,Paper RWG,In-house Development RPY
+30,56,16,Paper RWG,Multiple RXN
+30,57,99,Paper RWG,Paper RYR
+30,58,63,Paper RWG,Paper RCX
+30,59,47,Paper RWG,Paper RP4
+30,60,176,Paper RWG,Paper RF4
+30,61,10783,Paper RWG,Epic Systems
+30,62,26,Paper RWG,Paper RNL
+30,63,70,Paper RWG,Paper RH8
+30,64,580,Paper RWG,Paper RDU
+30,65,8,Paper RWG,Paper RJN
+30,66,55,Paper RWG,Paper RK9
+30,67,14,Paper RWG,Multiple REM
+30,68,75,Paper RWG,In-house Development RR8
+30,69,59,Paper RWG,Multiple RA9
+30,70,212,Paper RWG,EMIS Health
+30,71,170,Paper RWG,Multiple RGN
+30,72,55,Paper RWG,Multiple RAJ
+30,73,339,Paper RWG,Paper RC1
+30,74,50,Paper RWG,Paper RPA
+30,75,103,Paper RWG,Paper RWD
+30,76,118,Paper RWG,Paper RWE
+30,77,330,Paper RWG,Paper RAP
+30,78,25,Paper RWG,Paper RP5
+30,79,843,Paper RWG,Allscripts
+30,80,32,Paper RWG,Paper RTR
+30,81,106,Paper RWG,In-house Development RN5
+30,82,103,Paper RWG,Advanced
+31,32,188,Paper RLT,Multiple RX1
+31,33,148,Paper RLT,Paper RHQ
+31,34,4,Paper RLT,Silverlink Software
+31,35,493,Paper RLT,Paper RRJ
+31,36,7,Paper RLT,Paper RMC
+31,37,46,Paper RLT,Fortrus
+31,38,39,Paper RLT,Multiple R1K
+31,39,13,Paper RLT,Paper RTK
+31,40,17,Paper RLT,Paper RXR
+31,41,23,Paper RLT,Multiple RQ6
+31,42,5,Paper RLT,Paper RPC
+31,43,8,Paper RLT,Paper RA2
+31,44,309,Paper RLT,System C
+31,45,144,Paper RLT,IMS Maxims
+31,46,11,Paper RLT,In-house Development RBV
+31,47,163,Paper RLT,In-house Development RL4
+31,48,4596,Paper RLT,In-house Development RR1
+31,49,6,Paper RLT,Paper RN7
+31,50,28,Paper RLT,Meditech
+31,51,28,Paper RLT,Multiple R0A
+31,52,70,Paper RLT,Multiple RBK
+31,53,18,Paper RLT,In-house Development RJL
+31,54,15,Paper RLT,In-house Development RAS
+31,55,38,Paper RLT,In-house Development RPY
+31,56,9,Paper RLT,Multiple RXN
+31,57,7,Paper RLT,Paper RYR
+31,58,26,Paper RLT,Paper RCX
+31,60,21,Paper RLT,Paper RF4
+31,61,271,Paper RLT,Epic Systems
+31,62,13,Paper RLT,Paper RNL
+31,63,29,Paper RLT,Paper RH8
+31,64,46,Paper RLT,Paper RDU
+31,65,5,Paper RLT,Paper RJN
+31,66,23,Paper RLT,Paper RK9
+31,67,11,Paper RLT,Multiple REM
+31,68,43,Paper RLT,In-house Development RR8
+31,69,39,Paper RLT,Multiple RA9
+31,70,43,Paper RLT,EMIS Health
+31,71,36,Paper RLT,Multiple RGN
+31,72,8,Paper RLT,Multiple RAJ
+31,73,14,Paper RLT,Paper RC1
+31,74,9,Paper RLT,Paper RPA
+31,75,82,Paper RLT,Paper RWD
+31,76,11666,Paper RLT,Paper RWE
+31,77,10,Paper RLT,Paper RAP
+31,78,17,Paper RLT,Paper RP5
+31,79,73,Paper RLT,Allscripts
+31,80,8,Paper RLT,Paper RTR
+31,81,26,Paper RLT,In-house Development RN5
+31,82,58006,Paper RLT,Advanced
+32,33,4329,Multiple RX1,Paper RHQ
+32,34,14,Multiple RX1,Silverlink Software
+32,35,276,Multiple RX1,Paper RRJ
+32,36,36,Multiple RX1,Paper RMC
+32,37,65,Multiple RX1,Fortrus
+32,38,142,Multiple RX1,Multiple R1K
+32,39,86,Multiple RX1,Paper RTK
+32,40,83,Multiple RX1,Paper RXR
+32,41,108,Multiple RX1,Multiple RQ6
+32,42,41,Multiple RX1,Paper RPC
+32,43,42,Multiple RX1,Paper RA2
+32,44,67844,Multiple RX1,System C
+32,45,446,Multiple RX1,IMS Maxims
+32,46,124,Multiple RX1,In-house Development RBV
+32,47,239,Multiple RX1,In-house Development RL4
+32,48,475,Multiple RX1,In-house Development RR1
+32,49,43,Multiple RX1,Paper RN7
+32,50,145,Multiple RX1,Meditech
+32,51,442,Multiple RX1,Multiple R0A
+32,52,107,Multiple RX1,Multiple RBK
+32,53,974,Multiple RX1,In-house Development RJL
+32,54,56,Multiple RX1,In-house Development RAS
+32,55,114,Multiple RX1,In-house Development RPY
+32,56,79,Multiple RX1,Multiple RXN
+32,57,83,Multiple RX1,Paper RYR
+32,58,165,Multiple RX1,Paper RCX
+32,59,10,Multiple RX1,Paper RP4
+32,60,120,Multiple RX1,Paper RF4
+32,61,1374,Multiple RX1,Epic Systems
+32,62,62,Multiple RX1,Paper RNL
+32,63,110,Multiple RX1,Paper RH8
+32,64,210,Multiple RX1,Paper RDU
+32,65,55,Multiple RX1,Paper RJN
+32,66,116,Multiple RX1,Paper RK9
+32,67,38,Multiple RX1,Multiple REM
+32,68,541,Multiple RX1,In-house Development RR8
+32,69,79,Multiple RX1,Multiple RA9
+32,70,157,Multiple RX1,EMIS Health
+32,71,1397,Multiple RX1,Multiple RGN
+32,72,52,Multiple RX1,Multiple RAJ
+32,73,92,Multiple RX1,Paper RC1
+32,74,45,Multiple RX1,Paper RPA
+32,75,31161,Multiple RX1,Paper RWD
+32,76,12959,Multiple RX1,Paper RWE
+32,77,82,Multiple RX1,Paper RAP
+32,78,1652,Multiple RX1,Paper RP5
+32,79,464,Multiple RX1,Allscripts
+32,80,196,Multiple RX1,Paper RTR
+32,81,95,Multiple RX1,In-house Development RN5
+32,82,601,Multiple RX1,Advanced
+33,34,29,Paper RHQ,Silverlink Software
+33,35,166,Paper RHQ,Paper RRJ
+33,36,200,Paper RHQ,Paper RMC
+33,37,71,Paper RHQ,Fortrus
+33,38,102,Paper RHQ,Multiple R1K
+33,39,79,Paper RHQ,Paper RTK
+33,40,397,Paper RHQ,Paper RXR
+33,41,306,Paper RHQ,Multiple RQ6
+33,42,18,Paper RHQ,Paper RPC
+33,43,54,Paper RHQ,Paper RA2
+33,44,56582,Paper RHQ,System C
+33,45,610,Paper RHQ,IMS Maxims
+33,46,529,Paper RHQ,In-house Development RBV
+33,47,343,Paper RHQ,In-house Development RL4
+33,48,442,Paper RHQ,In-house Development RR1
+33,49,22,Paper RHQ,Paper RN7
+33,50,633,Paper RHQ,Meditech
+33,51,2168,Paper RHQ,Multiple R0A
+33,52,137,Paper RHQ,Multiple RBK
+33,53,5572,Paper RHQ,In-house Development RJL
+33,54,25,Paper RHQ,In-house Development RAS
+33,55,120,Paper RHQ,In-house Development RPY
+33,56,377,Paper RHQ,Multiple RXN
+33,57,53,Paper RHQ,Paper RYR
+33,58,151,Paper RHQ,Paper RCX
+33,59,8,Paper RHQ,Paper RP4
+33,60,84,Paper RHQ,Paper RF4
+33,61,1055,Paper RHQ,Epic Systems
+33,62,133,Paper RHQ,Paper RNL
+33,63,96,Paper RHQ,Paper RH8
+33,64,120,Paper RHQ,Paper RDU
+33,65,418,Paper RHQ,Paper RJN
+33,66,75,Paper RHQ,Paper RK9
+33,67,224,Paper RHQ,Multiple REM
+33,68,4900,Paper RHQ,In-house Development RR8
+33,69,90,Paper RHQ,Multiple RA9
+33,70,182,Paper RHQ,EMIS Health
+33,71,523,Paper RHQ,Multiple RGN
+33,72,34,Paper RHQ,Multiple RAJ
+33,73,57,Paper RHQ,Paper RC1
+33,74,48,Paper RHQ,Paper RPA
+33,75,7161,Paper RHQ,Paper RWD
+33,76,1975,Paper RHQ,Paper RWE
+33,77,72,Paper RHQ,Paper RAP
+33,78,55096,Paper RHQ,Paper RP5
+33,79,1312,Paper RHQ,Allscripts
+33,80,479,Paper RHQ,Paper RTR
+33,81,64,Paper RHQ,In-house Development RN5
+33,82,418,Paper RHQ,Advanced
+34,37,4,Silverlink Software,Fortrus
+34,38,3,Silverlink Software,Multiple R1K
+34,39,1,Silverlink Software,Paper RTK
+34,40,5,Silverlink Software,Paper RXR
+34,41,13,Silverlink Software,Multiple RQ6
+34,43,4,Silverlink Software,Paper RA2
+34,44,7868,Silverlink Software,System C
+34,45,31,Silverlink Software,IMS Maxims
+34,46,2,Silverlink Software,In-house Development RBV
+34,47,3,Silverlink Software,In-house Development RL4
+34,48,8,Silverlink Software,In-house Development RR1
+34,49,2,Silverlink Software,Paper RN7
+34,50,44263,Silverlink Software,Meditech
+34,51,12,Silverlink Software,Multiple R0A
+34,52,2,Silverlink Software,Multiple RBK
+34,53,14,Silverlink Software,In-house Development RJL
+34,54,10,Silverlink Software,In-house Development RAS
+34,56,7,Silverlink Software,Multiple RXN
+34,57,5,Silverlink Software,Paper RYR
+34,58,3,Silverlink Software,Paper RCX
+34,59,1,Silverlink Software,Paper RP4
+34,60,6,Silverlink Software,Paper RF4
+34,61,33,Silverlink Software,Epic Systems
+34,62,105,Silverlink Software,Paper RNL
+34,64,20,Silverlink Software,Paper RDU
+34,65,2,Silverlink Software,Paper RJN
+34,66,9,Silverlink Software,Paper RK9
+34,67,6,Silverlink Software,Multiple REM
+34,68,52,Silverlink Software,In-house Development RR8
+34,69,8,Silverlink Software,Multiple RA9
+34,70,3,Silverlink Software,EMIS Health
+34,71,6,Silverlink Software,Multiple RGN
+34,72,7,Silverlink Software,Multiple RAJ
+34,73,1,Silverlink Software,Paper RC1
+34,74,5,Silverlink Software,Paper RPA
+34,75,23,Silverlink Software,Paper RWD
+34,76,10,Silverlink Software,Paper RWE
+34,77,5,Silverlink Software,Paper RAP
+34,78,22,Silverlink Software,Paper RP5
+34,79,42,Silverlink Software,Allscripts
+34,80,288,Silverlink Software,Paper RTR
+34,81,9,Silverlink Software,In-house Development RN5
+34,82,12,Silverlink Software,Advanced
+35,36,31,Paper RRJ,Paper RMC
+35,37,12,Paper RRJ,Fortrus
+35,38,11,Paper RRJ,Multiple R1K
+35,39,15,Paper RRJ,Paper RTK
+35,40,57,Paper RRJ,Paper RXR
+35,41,28,Paper RRJ,Multiple RQ6
+35,42,3,Paper RRJ,Paper RPC
+35,43,3,Paper RRJ,Paper RA2
+35,44,790,Paper RRJ,System C
+35,45,496,Paper RRJ,IMS Maxims
+35,46,150,Paper RRJ,In-house Development RBV
+35,47,1584,Paper RRJ,In-house Development RL4
+35,48,7962,Paper RRJ,In-house Development RR1
+35,49,4,Paper RRJ,Paper RN7
+35,50,61,Paper RRJ,Meditech
+35,51,83,Paper RRJ,Multiple R0A
+35,52,2209,Paper RRJ,Multiple RBK
+35,53,73,Paper RRJ,In-house Development RJL
+35,54,8,Paper RRJ,In-house Development RAS
+35,55,17,Paper RRJ,In-house Development RPY
+35,56,58,Paper RRJ,Multiple RXN
+35,57,16,Paper RRJ,Paper RYR
+35,58,19,Paper RRJ,Paper RCX
+35,60,4,Paper RRJ,Paper RF4
+35,61,463,Paper RRJ,Epic Systems
+35,62,10,Paper RRJ,Paper RNL
+35,63,60,Paper RRJ,Paper RH8
+35,64,10,Paper RRJ,Paper RDU
+35,65,26,Paper RRJ,Paper RJN
+35,66,94,Paper RRJ,Paper RK9
+35,67,12,Paper RRJ,Multiple REM
+35,68,141,Paper RRJ,In-house Development RR8
+35,69,37,Paper RRJ,Multiple RA9
+35,70,15,Paper RRJ,EMIS Health
+35,71,116,Paper RRJ,Multiple RGN
+35,72,9,Paper RRJ,Multiple RAJ
+35,73,13,Paper RRJ,Paper RC1
+35,74,1,Paper RRJ,Paper RPA
+35,75,109,Paper RRJ,Paper RWD
+35,76,207,Paper RRJ,Paper RWE
+35,77,7,Paper RRJ,Paper RAP
+35,78,40,Paper RRJ,Paper RP5
+35,79,113,Paper RRJ,Allscripts
+35,80,20,Paper RRJ,Paper RTR
+35,81,7,Paper RRJ,In-house Development RN5
+35,82,2569,Paper RRJ,Advanced
+36,37,11,Paper RMC,Fortrus
+36,38,26,Paper RMC,Multiple R1K
+36,39,8,Paper RMC,Paper RTK
+36,40,2494,Paper RMC,Paper RXR
+36,41,410,Paper RMC,Multiple RQ6
+36,42,5,Paper RMC,Paper RPC
+36,43,2,Paper RMC,Paper RA2
+36,44,869,Paper RMC,System C
+36,45,500,Paper RMC,IMS Maxims
+36,46,10703,Paper RMC,In-house Development RBV
+36,47,28,Paper RMC,In-house Development RL4
+36,48,38,Paper RMC,In-house Development RR1
+36,49,17,Paper RMC,Paper RN7
+36,50,224,Paper RMC,Meditech
+36,51,18465,Paper RMC,Multiple R0A
+36,52,18,Paper RMC,Multiple RBK
+36,53,26,Paper RMC,In-house Development RJL
+36,54,15,Paper RMC,In-house Development RAS
+36,55,3,Paper RMC,In-house Development RPY
+36,56,2846,Paper RMC,Multiple RXN
+36,57,9,Paper RMC,Paper RYR
+36,58,7,Paper RMC,Paper RCX
+36,60,55,Paper RMC,Paper RF4
+36,61,106,Paper RMC,Epic Systems
+36,62,46,Paper RMC,Paper RNL
+36,63,14,Paper RMC,Paper RH8
+36,64,40,Paper RMC,Paper RDU
+36,65,56,Paper RMC,Paper RJN
+36,66,16,Paper RMC,Paper RK9
+36,67,219,Paper RMC,Multiple REM
+36,68,381,Paper RMC,In-house Development RR8
+36,69,44,Paper RMC,Multiple RA9
+36,70,25,Paper RMC,EMIS Health
+36,71,19,Paper RMC,Multiple RGN
+36,72,3,Paper RMC,Multiple RAJ
+36,73,3,Paper RMC,Paper RC1
+36,74,6,Paper RMC,Paper RPA
+36,75,33,Paper RMC,Paper RWD
+36,76,76,Paper RMC,Paper RWE
+36,77,17,Paper RMC,Paper RAP
+36,78,30,Paper RMC,Paper RP5
+36,79,56773,Paper RMC,Allscripts
+36,80,43,Paper RMC,Paper RTR
+36,81,15,Paper RMC,In-house Development RN5
+36,82,43,Paper RMC,Advanced
+37,38,48,Fortrus,Multiple R1K
+37,39,115,Fortrus,Paper RTK
+37,40,21,Fortrus,Paper RXR
+37,41,32,Fortrus,Multiple RQ6
+37,42,31,Fortrus,Paper RPC
+37,43,114,Fortrus,Paper RA2
+37,44,1241,Fortrus,System C
+37,45,1442,Fortrus,IMS Maxims
+37,46,5,Fortrus,In-house Development RBV
+37,47,86,Fortrus,In-house Development RL4
+37,48,126,Fortrus,In-house Development RR1
+37,49,42,Fortrus,Paper RN7
+37,50,39,Fortrus,Meditech
+37,51,53,Fortrus,Multiple R0A
+37,52,37,Fortrus,Multiple RBK
+37,53,19,Fortrus,In-house Development RJL
+37,54,52,Fortrus,In-house Development RAS
+37,55,221,Fortrus,In-house Development RPY
+37,56,25,Fortrus,Multiple RXN
+37,57,153,Fortrus,Paper RYR
+37,58,9,Fortrus,Paper RCX
+37,60,36,Fortrus,Paper RF4
+37,61,536,Fortrus,Epic Systems
+37,62,11,Fortrus,Paper RNL
+37,63,2473,Fortrus,Paper RH8
+37,64,359,Fortrus,Paper RDU
+37,65,4,Fortrus,Paper RJN
+37,66,265,Fortrus,Paper RK9
+37,67,7,Fortrus,Multiple REM
+37,68,35,Fortrus,In-house Development RR8
+37,69,132,Fortrus,Multiple RA9
+37,70,16646,Fortrus,EMIS Health
+37,71,46,Fortrus,Multiple RGN
+37,72,44,Fortrus,Multiple RAJ
+37,73,54,Fortrus,Paper RC1
+37,74,44,Fortrus,Paper RPA
+37,75,49,Fortrus,Paper RWD
+37,76,130,Fortrus,Paper RWE
+37,77,26,Fortrus,Paper RAP
+37,78,33,Fortrus,Paper RP5
+37,79,219,Fortrus,Allscripts
+37,80,32,Fortrus,Paper RTR
+37,81,362,Fortrus,In-house Development RN5
+37,82,112,Fortrus,Advanced
+38,39,1266,Multiple R1K,Paper RTK
+38,40,35,Multiple R1K,Paper RXR
+38,41,77,Multiple R1K,Multiple RQ6
+38,42,83,Multiple R1K,Paper RPC
+38,43,211,Multiple R1K,Paper RA2
+38,44,4037,Multiple R1K,System C
+38,45,242,Multiple R1K,IMS Maxims
+38,46,13,Multiple R1K,In-house Development RBV
+38,47,151,Multiple R1K,In-house Development RL4
+38,48,153,Multiple R1K,In-house Development RR1
+38,49,294,Multiple R1K,Paper RN7
+38,50,75,Multiple R1K,Meditech
+38,51,181,Multiple R1K,Multiple R0A
+38,52,52,Multiple R1K,Multiple RBK
+38,53,45,Multiple R1K,In-house Development RJL
+38,54,27103,Multiple R1K,In-house Development RAS
+38,55,1125,Multiple R1K,In-house Development RPY
+38,56,25,Multiple R1K,Multiple RXN
+38,57,325,Multiple R1K,Paper RYR
+38,58,117,Multiple R1K,Paper RCX
+38,59,88,Multiple R1K,Paper RP4
+38,60,945,Multiple R1K,Paper RF4
+38,61,17487,Multiple R1K,Epic Systems
+38,62,12,Multiple R1K,Paper RNL
+38,63,65,Multiple R1K,Paper RH8
+38,64,2535,Multiple R1K,Paper RDU
+38,65,14,Multiple R1K,Paper RJN
+38,66,67,Multiple R1K,Paper RK9
+38,67,26,Multiple R1K,Multiple REM
+38,68,86,Multiple R1K,In-house Development RR8
+38,69,47,Multiple R1K,Multiple RA9
+38,70,305,Multiple R1K,EMIS Health
+38,71,338,Multiple R1K,Multiple RGN
+38,72,260,Multiple R1K,Multiple RAJ
+38,73,585,Multiple R1K,Paper RC1
+38,74,335,Multiple R1K,Paper RPA
+38,75,146,Multiple R1K,Paper RWD
+38,76,429,Multiple R1K,Paper RWE
+38,77,1084,Multiple R1K,Paper RAP
+38,78,47,Multiple R1K,Paper RP5
+38,79,2023,Multiple R1K,Allscripts
+38,80,47,Multiple R1K,Paper RTR
+38,81,174,Multiple R1K,In-house Development RN5
+38,82,212,Multiple R1K,Advanced
+39,40,23,Paper RTK,Paper RXR
+39,41,45,Paper RTK,Multiple RQ6
+39,42,268,Paper RTK,Paper RPC
+39,43,29301,Paper RTK,Paper RA2
+39,44,676,Paper RTK,System C
+39,45,284,Paper RTK,IMS Maxims
+39,46,2,Paper RTK,In-house Development RBV
+39,47,27,Paper RTK,In-house Development RL4
+39,48,52,Paper RTK,In-house Development RR1
+39,49,169,Paper RTK,Paper RN7
+39,50,30,Paper RTK,Meditech
+39,51,52,Paper RTK,Multiple R0A
+39,52,27,Paper RTK,Multiple RBK
+39,53,15,Paper RTK,In-house Development RJL
+39,54,1156,Paper RTK,In-house Development RAS
+39,55,1635,Paper RTK,In-house Development RPY
+39,56,14,Paper RTK,Multiple RXN
+39,57,559,Paper RTK,Paper RYR
+39,58,29,Paper RTK,Paper RCX
+39,59,49,Paper RTK,Paper RP4
+39,60,86,Paper RTK,Paper RF4
+39,61,3416,Paper RTK,Epic Systems
+39,62,10,Paper RTK,Paper RNL
+39,63,112,Paper RTK,Paper RH8
+39,64,17785,Paper RTK,Paper RDU
+39,65,9,Paper RTK,Paper RJN
+39,66,58,Paper RTK,Paper RK9
+39,67,10,Paper RTK,Multiple REM
+39,68,47,Paper RTK,In-house Development RR8
+39,69,75,Paper RTK,Multiple RA9
+39,70,513,Paper RTK,EMIS Health
+39,71,53,Paper RTK,Multiple RGN
+39,72,42,Paper RTK,Multiple RAJ
+39,73,27,Paper RTK,Paper RC1
+39,74,279,Paper RTK,Paper RPA
+39,75,52,Paper RTK,Paper RWD
+39,76,86,Paper RTK,Paper RWE
+39,77,82,Paper RTK,Paper RAP
+39,78,15,Paper RTK,Paper RP5
+39,79,1571,Paper RTK,Allscripts
+39,80,24,Paper RTK,Paper RTR
+39,81,476,Paper RTK,In-house Development RN5
+39,82,54,Paper RTK,Advanced
+40,41,742,Paper RXR,Multiple RQ6
+40,42,4,Paper RXR,Paper RPC
+40,43,18,Paper RXR,Paper RA2
+40,44,765,Paper RXR,System C
+40,45,5354,Paper RXR,IMS Maxims
+40,46,1856,Paper RXR,In-house Development RBV
+40,47,25,Paper RXR,In-house Development RL4
+40,48,84,Paper RXR,In-house Development RR1
+40,49,17,Paper RXR,Paper RN7
+40,50,460,Paper RXR,Meditech
+40,51,9516,Paper RXR,Multiple R0A
+40,52,22,Paper RXR,Multiple RBK
+40,53,27,Paper RXR,In-house Development RJL
+40,54,15,Paper RXR,In-house Development RAS
+40,55,22,Paper RXR,In-house Development RPY
+40,56,38285,Paper RXR,Multiple RXN
+40,57,20,Paper RXR,Paper RYR
+40,58,16,Paper RXR,Paper RCX
+40,60,33,Paper RXR,Paper RF4
+40,61,119,Paper RXR,Epic Systems
+40,62,106,Paper RXR,Paper RNL
+40,63,26,Paper RXR,Paper RH8
+40,64,58,Paper RXR,Paper RDU
+40,65,42,Paper RXR,Paper RJN
+40,66,36,Paper RXR,Paper RK9
+40,67,467,Paper RXR,Multiple REM
+40,68,1132,Paper RXR,In-house Development RR8
+40,69,30,Paper RXR,Multiple RA9
+40,70,41,Paper RXR,EMIS Health
+40,71,38,Paper RXR,Multiple RGN
+40,72,17,Paper RXR,Multiple RAJ
+40,73,17,Paper RXR,Paper RC1
+40,74,17,Paper RXR,Paper RPA
+40,75,44,Paper RXR,Paper RWD
+40,76,87,Paper RXR,Paper RWE
+40,77,21,Paper RXR,Paper RAP
+40,78,32,Paper RXR,Paper RP5
+40,79,6925,Paper RXR,Allscripts
+40,80,80,Paper RXR,Paper RTR
+40,81,25,Paper RXR,In-house Development RN5
+40,82,49,Paper RXR,Advanced
+41,42,3,Multiple RQ6,Paper RPC
+41,43,21,Multiple RQ6,Paper RA2
+41,44,72223,Multiple RQ6,System C
+41,45,1323,Multiple RQ6,IMS Maxims
+41,46,565,Multiple RQ6,In-house Development RBV
+41,47,208,Multiple RQ6,In-house Development RL4
+41,48,137,Multiple RQ6,In-house Development RR1
+41,49,16,Multiple RQ6,Paper RN7
+41,50,73477,Multiple RQ6,Meditech
+41,51,3015,Multiple RQ6,Multiple R0A
+41,52,62,Multiple RQ6,Multiple RBK
+41,53,27,Multiple RQ6,In-house Development RJL
+41,54,29,Multiple RQ6,In-house Development RAS
+41,55,15,Multiple RQ6,In-house Development RPY
+41,56,1397,Multiple RQ6,Multiple RXN
+41,57,17,Multiple RQ6,Paper RYR
+41,58,23,Multiple RQ6,Paper RCX
+41,60,37,Multiple RQ6,Paper RF4
+41,61,389,Multiple RQ6,Epic Systems
+41,62,220,Multiple RQ6,Paper RNL
+41,63,104,Multiple RQ6,Paper RH8
+41,64,55,Multiple RQ6,Paper RDU
+41,65,367,Multiple RQ6,Paper RJN
+41,66,88,Multiple RQ6,Paper RK9
+41,67,80505,Multiple RQ6,Multiple REM
+41,68,331,Multiple RQ6,In-house Development RR8
+41,69,66,Multiple RQ6,Multiple RA9
+41,70,205,Multiple RQ6,EMIS Health
+41,71,50,Multiple RQ6,Multiple RGN
+41,72,39,Multiple RQ6,Multiple RAJ
+41,73,15,Multiple RQ6,Paper RC1
+41,74,23,Multiple RQ6,Paper RPA
+41,75,67,Multiple RQ6,Paper RWD
+41,76,129,Multiple RQ6,Paper RWE
+41,77,29,Multiple RQ6,Paper RAP
+41,78,65,Multiple RQ6,Paper RP5
+41,79,30015,Multiple RQ6,Allscripts
+41,80,113,Multiple RQ6,Paper RTR
+41,81,39,Multiple RQ6,In-house Development RN5
+41,82,213,Multiple RQ6,Advanced
+42,43,1439,Paper RPC,Paper RA2
+42,44,296,Paper RPC,System C
+42,45,157,Paper RPC,IMS Maxims
+42,46,5,Paper RPC,In-house Development RBV
+42,47,5,Paper RPC,In-house Development RL4
+42,48,1,Paper RPC,In-house Development RR1
+42,49,8186,Paper RPC,Paper RN7
+42,50,28,Paper RPC,Meditech
+42,51,53,Paper RPC,Multiple R0A
+42,52,3,Paper RPC,Multiple RBK
+42,53,8,Paper RPC,In-house Development RJL
+42,54,41,Paper RPC,In-house Development RAS
+42,55,508,Paper RPC,In-house Development RPY
+42,56,4,Paper RPC,Multiple RXN
+42,57,4869,Paper RPC,Paper RYR
+42,58,4,Paper RPC,Paper RCX
+42,59,6,Paper RPC,Paper RP4
+42,60,61,Paper RPC,Paper RF4
+42,61,767,Paper RPC,Epic Systems
+42,62,7,Paper RPC,Paper RNL
+42,63,42,Paper RPC,Paper RH8
+42,64,323,Paper RPC,Paper RDU
+42,65,1,Paper RPC,Paper RJN
+42,66,141,Paper RPC,Paper RK9
+42,67,3,Paper RPC,Multiple REM
+42,68,24,Paper RPC,In-house Development RR8
+42,69,21,Paper RPC,Multiple RA9
+42,70,158,Paper RPC,EMIS Health
+42,71,20,Paper RPC,Multiple RGN
+42,72,39,Paper RPC,Multiple RAJ
+42,73,6,Paper RPC,Paper RC1
+42,74,13522,Paper RPC,Paper RPA
+42,75,18,Paper RPC,Paper RWD
+42,76,20,Paper RPC,Paper RWE
+42,77,20,Paper RPC,Paper RAP
+42,78,1,Paper RPC,Paper RP5
+42,79,2889,Paper RPC,Allscripts
+42,80,24,Paper RPC,Paper RTR
+42,81,53,Paper RPC,In-house Development RN5
+42,82,163,Paper RPC,Advanced
+43,44,505,Paper RA2,System C
+43,45,251,Paper RA2,IMS Maxims
+43,46,25,Paper RA2,In-house Development RBV
+43,47,16,Paper RA2,In-house Development RL4
+43,48,31,Paper RA2,In-house Development RR1
+43,49,56,Paper RA2,Paper RN7
+43,50,50,Paper RA2,Meditech
+43,51,64,Paper RA2,Multiple R0A
+43,52,5,Paper RA2,Multiple RBK
+43,53,11,Paper RA2,In-house Development RJL
+43,54,94,Paper RA2,In-house Development RAS
+43,55,1644,Paper RA2,In-house Development RPY
+43,56,10,Paper RA2,Multiple RXN
+43,57,3829,Paper RA2,Paper RYR
+43,58,31,Paper RA2,Paper RCX
+43,59,16,Paper RA2,Paper RP4
+43,60,67,Paper RA2,Paper RF4
+43,61,1781,Paper RA2,Epic Systems
+43,62,14,Paper RA2,Paper RNL
+43,63,124,Paper RA2,Paper RH8
+43,64,37829,Paper RA2,Paper RDU
+43,65,6,Paper RA2,Paper RJN
+43,66,74,Paper RA2,Paper RK9
+43,67,9,Paper RA2,Multiple REM
+43,68,58,Paper RA2,In-house Development RR8
+43,69,86,Paper RA2,Multiple RA9
+43,70,710,Paper RA2,EMIS Health
+43,71,33,Paper RA2,Multiple RGN
+43,72,37,Paper RA2,Multiple RAJ
+43,73,30,Paper RA2,Paper RC1
+43,74,59,Paper RA2,Paper RPA
+43,75,54,Paper RA2,Paper RWD
+43,76,56,Paper RA2,Paper RWE
+43,77,37,Paper RA2,Paper RAP
+43,78,9,Paper RA2,Paper RP5
+43,79,973,Paper RA2,Allscripts
+43,80,26,Paper RA2,Paper RTR
+43,81,5402,Paper RA2,In-house Development RN5
+43,82,35,Paper RA2,Advanced
+44,45,15805,System C,IMS Maxims
+44,46,3075,System C,In-house Development RBV
+44,47,42756,System C,In-house Development RL4
+44,48,2318,System C,In-house Development RR1
+44,49,3030,System C,Paper RN7
+44,50,75081,System C,Meditech
+44,51,8352,System C,Multiple R0A
+44,52,2568,System C,Multiple RBK
+44,53,653,System C,In-house Development RJL
+44,54,2994,System C,In-house Development RAS
+44,55,1627,System C,In-house Development RPY
+44,56,5009,System C,Multiple RXN
+44,57,633,System C,Paper RYR
+44,58,382,System C,Paper RCX
+44,59,1135,System C,Paper RP4
+44,60,24621,System C,Paper RF4
+44,61,69217,System C,Epic Systems
+44,62,1440,System C,Paper RNL
+44,63,2588,System C,Paper RH8
+44,64,20119,System C,Paper RDU
+44,65,9514,System C,Paper RJN
+44,66,1320,System C,Paper RK9
+44,67,49545,System C,Multiple REM
+44,68,1862,System C,In-house Development RR8
+44,69,1506,System C,Multiple RA9
+44,70,2258,System C,EMIS Health
+44,71,2934,System C,Multiple RGN
+44,72,66757,System C,Multiple RAJ
+44,73,1731,System C,Paper RC1
+44,74,755,System C,Paper RPA
+44,75,16134,System C,Paper RWD
+44,76,20873,System C,Paper RWE
+44,77,22417,System C,Paper RAP
+44,78,7287,System C,Paper RP5
+44,79,50665,System C,Allscripts
+44,80,1023,System C,Paper RTR
+44,81,1375,System C,In-house Development RN5
+44,82,2610,System C,Advanced
+45,46,1286,IMS Maxims,In-house Development RBV
+45,47,589,IMS Maxims,In-house Development RL4
+45,48,959,IMS Maxims,In-house Development RR1
+45,49,149,IMS Maxims,Paper RN7
+45,50,874,IMS Maxims,Meditech
+45,51,5626,IMS Maxims,Multiple R0A
+45,52,167,IMS Maxims,Multiple RBK
+45,53,127,IMS Maxims,In-house Development RJL
+45,54,144,IMS Maxims,In-house Development RAS
+45,55,390,IMS Maxims,In-house Development RPY
+45,56,51729,IMS Maxims,Multiple RXN
+45,57,308,IMS Maxims,Paper RYR
+45,58,91,IMS Maxims,Paper RCX
+45,59,19,IMS Maxims,Paper RP4
+45,60,158,IMS Maxims,Paper RF4
+45,61,1892,IMS Maxims,Epic Systems
+45,62,395,IMS Maxims,Paper RNL
+45,63,17020,IMS Maxims,Paper RH8
+45,64,592,IMS Maxims,Paper RDU
+45,65,113,IMS Maxims,Paper RJN
+45,66,25537,IMS Maxims,Paper RK9
+45,67,709,IMS Maxims,Multiple REM
+45,68,852,IMS Maxims,In-house Development RR8
+45,69,1490,IMS Maxims,Multiple RA9
+45,70,966,IMS Maxims,EMIS Health
+45,71,202,IMS Maxims,Multiple RGN
+45,72,158,IMS Maxims,Multiple RAJ
+45,73,111,IMS Maxims,Paper RC1
+45,74,151,IMS Maxims,Paper RPA
+45,75,294,IMS Maxims,Paper RWD
+45,76,522,IMS Maxims,Paper RWE
+45,77,74,IMS Maxims,Paper RAP
+45,78,238,IMS Maxims,Paper RP5
+45,79,6952,IMS Maxims,Allscripts
+45,80,188,IMS Maxims,Paper RTR
+45,81,461,IMS Maxims,In-house Development RN5
+45,82,673,IMS Maxims,Advanced
+46,47,122,In-house Development RBV,In-house Development RL4
+46,48,50,In-house Development RBV,In-house Development RR1
+46,49,15,In-house Development RBV,Paper RN7
+46,50,1588,In-house Development RBV,Meditech
+46,51,42622,In-house Development RBV,Multiple R0A
+46,52,31,In-house Development RBV,Multiple RBK
+46,53,70,In-house Development RBV,In-house Development RJL
+46,54,2,In-house Development RBV,In-house Development RAS
+46,55,94,In-house Development RBV,In-house Development RPY
+46,56,1878,In-house Development RBV,Multiple RXN
+46,57,10,In-house Development RBV,Paper RYR
+46,58,2,In-house Development RBV,Paper RCX
+46,60,8,In-house Development RBV,Paper RF4
+46,61,115,In-house Development RBV,Epic Systems
+46,62,206,In-house Development RBV,Paper RNL
+46,63,35,In-house Development RBV,Paper RH8
+46,64,11,In-house Development RBV,Paper RDU
+46,65,7038,In-house Development RBV,Paper RJN
+46,66,10,In-house Development RBV,Paper RK9
+46,67,393,In-house Development RBV,Multiple REM
+46,68,487,In-house Development RBV,In-house Development RR8
+46,69,34,In-house Development RBV,Multiple RA9
+46,70,22,In-house Development RBV,EMIS Health
+46,71,13,In-house Development RBV,Multiple RGN
+46,72,13,In-house Development RBV,Multiple RAJ
+46,73,1,In-house Development RBV,Paper RC1
+46,74,1,In-house Development RBV,Paper RPA
+46,75,70,In-house Development RBV,Paper RWD
+46,76,77,In-house Development RBV,Paper RWE
+46,77,4,In-house Development RBV,Paper RAP
+46,78,72,In-house Development RBV,Paper RP5
+46,79,32692,In-house Development RBV,Allscripts
+46,80,189,In-house Development RBV,Paper RTR
+46,81,10,In-house Development RBV,In-house Development RN5
+46,82,68,In-house Development RBV,Advanced
+47,48,4825,In-house Development RL4,In-house Development RR1
+47,49,20,In-house Development RL4,Paper RN7
+47,50,146,In-house Development RL4,Meditech
+47,51,260,In-house Development RL4,Multiple R0A
+47,52,48370,In-house Development RL4,Multiple RBK
+47,53,33,In-house Development RL4,In-house Development RJL
+47,54,50,In-house Development RL4,In-house Development RAS
+47,55,68,In-house Development RL4,In-house Development RPY
+47,56,37,In-house Development RL4,Multiple RXN
+47,57,36,In-house Development RL4,Paper RYR
+47,58,22,In-house Development RL4,Paper RCX
+47,59,4,In-house Development RL4,Paper RP4
+47,60,58,In-house Development RL4,Paper RF4
+47,61,375,In-house Development RL4,Epic Systems
+47,62,25,In-house Development RL4,Paper RNL
+47,63,85,In-house Development RL4,Paper RH8
+47,64,93,In-house Development RL4,Paper RDU
+47,65,21,In-house Development RL4,Paper RJN
+47,66,42,In-house Development RL4,Paper RK9
+47,67,28,In-house Development RL4,Multiple REM
+47,68,129,In-house Development RL4,In-house Development RR8
+47,69,100,In-house Development RL4,Multiple RA9
+47,70,96,In-house Development RL4,EMIS Health
+47,71,67,In-house Development RL4,Multiple RGN
+47,72,24,In-house Development RL4,Multiple RAJ
+47,73,29,In-house Development RL4,Paper RC1
+47,74,45,In-house Development RL4,Paper RPA
+47,75,60,In-house Development RL4,Paper RWD
+47,76,350,In-house Development RL4,Paper RWE
+47,77,40,In-house Development RL4,Paper RAP
+47,78,38,In-house Development RL4,Paper RP5
+47,79,393,In-house Development RL4,Allscripts
+47,80,34,In-house Development RL4,Paper RTR
+47,81,43,In-house Development RL4,In-house Development RN5
+47,82,1603,In-house Development RL4,Advanced
+48,49,40,In-house Development RR1,Paper RN7
+48,50,162,In-house Development RR1,Meditech
+48,51,307,In-house Development RR1,Multiple R0A
+48,52,8488,In-house Development RR1,Multiple RBK
+48,53,49,In-house Development RR1,In-house Development RJL
+48,54,61,In-house Development RR1,In-house Development RAS
+48,55,96,In-house Development RR1,In-house Development RPY
+48,56,70,In-house Development RR1,Multiple RXN
+48,57,58,In-house Development RR1,Paper RYR
+48,58,22,In-house Development RR1,Paper RCX
+48,59,1,In-house Development RR1,Paper RP4
+48,60,92,In-house Development RR1,Paper RF4
+48,61,581,In-house Development RR1,Epic Systems
+48,62,30,In-house Development RR1,Paper RNL
+48,63,128,In-house Development RR1,Paper RH8
+48,64,155,In-house Development RR1,Paper RDU
+48,65,27,In-house Development RR1,Paper RJN
+48,66,118,In-house Development RR1,Paper RK9
+48,67,47,In-house Development RR1,Multiple REM
+48,68,262,In-house Development RR1,In-house Development RR8
+48,69,176,In-house Development RR1,Multiple RA9
+48,70,167,In-house Development RR1,EMIS Health
+48,71,99,In-house Development RR1,Multiple RGN
+48,72,17,In-house Development RR1,Multiple RAJ
+48,73,42,In-house Development RR1,Paper RC1
+48,74,20,In-house Development RR1,Paper RPA
+48,75,153,In-house Development RR1,Paper RWD
+48,76,866,In-house Development RR1,Paper RWE
+48,77,84,In-house Development RR1,Paper RAP
+48,78,61,In-house Development RR1,Paper RP5
+48,79,291,In-house Development RR1,Allscripts
+48,80,67,In-house Development RR1,Paper RTR
+48,81,72,In-house Development RR1,In-house Development RN5
+48,82,18676,In-house Development RR1,Advanced
+49,50,25,Paper RN7,Meditech
+49,51,37,Paper RN7,Multiple R0A
+49,52,17,Paper RN7,Multiple RBK
+49,53,28,Paper RN7,In-house Development RJL
+49,54,34,Paper RN7,In-house Development RAS
+49,55,485,Paper RN7,In-house Development RPY
+49,56,11,Paper RN7,Multiple RXN
+49,57,153,Paper RN7,Paper RYR
+49,58,38,Paper RN7,Paper RCX
+49,59,33,Paper RN7,Paper RP4
+49,60,1403,Paper RN7,Paper RF4
+49,61,2472,Paper RN7,Epic Systems
+49,62,17,Paper RN7,Paper RNL
+49,63,54,Paper RN7,Paper RH8
+49,64,109,Paper RN7,Paper RDU
+49,65,5,Paper RN7,Paper RJN
+49,66,30,Paper RN7,Paper RK9
+49,67,12,Paper RN7,Multiple REM
+49,68,25,Paper RN7,In-house Development RR8
+49,69,40,Paper RN7,Multiple RA9
+49,70,123,Paper RN7,EMIS Health
+49,71,51,Paper RN7,Multiple RGN
+49,72,290,Paper RN7,Multiple RAJ
+49,73,20,Paper RN7,Paper RC1
+49,74,31706,Paper RN7,Paper RPA
+49,75,36,Paper RN7,Paper RWD
+49,76,71,Paper RN7,Paper RWE
+49,77,115,Paper RN7,Paper RAP
+49,78,20,Paper RN7,Paper RP5
+49,79,53570,Paper RN7,Allscripts
+49,80,13,Paper RN7,Paper RTR
+49,81,41,Paper RN7,In-house Development RN5
+49,82,48,Paper RN7,Advanced
+50,51,3142,Meditech,Multiple R0A
+50,52,42,Meditech,Multiple RBK
+50,53,78,Meditech,In-house Development RJL
+50,54,30,Meditech,In-house Development RAS
+50,55,40,Meditech,In-house Development RPY
+50,56,826,Meditech,Multiple RXN
+50,57,40,Meditech,Paper RYR
+50,58,28,Meditech,Paper RCX
+50,59,6,Meditech,Paper RP4
+50,60,65,Meditech,Paper RF4
+50,61,559,Meditech,Epic Systems
+50,62,859,Meditech,Paper RNL
+50,63,97,Meditech,Paper RH8
+50,64,114,Meditech,Paper RDU
+50,65,482,Meditech,Paper RJN
+50,66,61,Meditech,Paper RK9
+50,67,47329,Meditech,Multiple REM
+50,68,474,Meditech,In-house Development RR8
+50,69,58,Meditech,Multiple RA9
+50,70,136,Meditech,EMIS Health
+50,71,81,Meditech,Multiple RGN
+50,72,31,Meditech,Multiple RAJ
+50,73,23,Meditech,Paper RC1
+50,74,34,Meditech,Paper RPA
+50,75,124,Meditech,Paper RWD
+50,76,191,Meditech,Paper RWE
+50,77,36,Meditech,Paper RAP
+50,78,112,Meditech,Paper RP5
+50,79,12175,Meditech,Allscripts
+50,80,7578,Meditech,Paper RTR
+50,81,60,Meditech,In-house Development RN5
+50,82,198,Meditech,Advanced
+51,52,94,Multiple R0A,Multiple RBK
+51,53,153,Multiple R0A,In-house Development RJL
+51,54,81,Multiple R0A,In-house Development RAS
+51,55,35,Multiple R0A,In-house Development RPY
+51,56,9353,Multiple R0A,Multiple RXN
+51,57,69,Multiple R0A,Paper RYR
+51,58,40,Multiple R0A,Paper RCX
+51,59,7,Multiple R0A,Paper RP4
+51,60,124,Multiple R0A,Paper RF4
+51,61,742,Multiple R0A,Epic Systems
+51,62,498,Multiple R0A,Paper RNL
+51,63,146,Multiple R0A,Paper RH8
+51,64,178,Multiple R0A,Paper RDU
+51,65,19485,Multiple R0A,Paper RJN
+51,66,112,Multiple R0A,Paper RK9
+51,67,1345,Multiple R0A,Multiple REM
+51,68,2032,Multiple R0A,In-house Development RR8
+51,69,80,Multiple R0A,Multiple RA9
+51,70,174,Multiple R0A,EMIS Health
+51,71,114,Multiple R0A,Multiple RGN
+51,72,31,Multiple R0A,Multiple RAJ
+51,73,44,Multiple R0A,Paper RC1
+51,74,42,Multiple R0A,Paper RPA
+51,75,275,Multiple R0A,Paper RWD
+51,76,357,Multiple R0A,Paper RWE
+51,77,80,Multiple R0A,Paper RAP
+51,78,248,Multiple R0A,Paper RP5
+51,79,136599,Multiple R0A,Allscripts
+51,80,259,Multiple R0A,Paper RTR
+51,81,82,Multiple R0A,In-house Development RN5
+51,82,305,Multiple R0A,Advanced
+52,53,8,Multiple RBK,In-house Development RJL
+52,54,13,Multiple RBK,In-house Development RAS
+52,55,3,Multiple RBK,In-house Development RPY
+52,56,16,Multiple RBK,Multiple RXN
+52,57,4,Multiple RBK,Paper RYR
+52,58,5,Multiple RBK,Paper RCX
+52,60,55,Multiple RBK,Paper RF4
+52,61,119,Multiple RBK,Epic Systems
+52,62,8,Multiple RBK,Paper RNL
+52,63,23,Multiple RBK,Paper RH8
+52,64,47,Multiple RBK,Paper RDU
+52,65,10,Multiple RBK,Paper RJN
+52,66,19,Multiple RBK,Paper RK9
+52,67,7,Multiple RBK,Multiple REM
+52,68,59,Multiple RBK,In-house Development RR8
+52,69,63,Multiple RBK,Multiple RA9
+52,70,32,Multiple RBK,EMIS Health
+52,71,17,Multiple RBK,Multiple RGN
+52,72,9,Multiple RBK,Multiple RAJ
+52,73,14,Multiple RBK,Paper RC1
+52,74,9,Multiple RBK,Paper RPA
+52,75,34,Multiple RBK,Paper RWD
+52,76,120,Multiple RBK,Paper RWE
+52,77,19,Multiple RBK,Paper RAP
+52,78,11,Multiple RBK,Paper RP5
+52,79,107,Multiple RBK,Allscripts
+52,80,12,Multiple RBK,Paper RTR
+52,81,17,Multiple RBK,In-house Development RN5
+52,82,1448,Multiple RBK,Advanced
+53,54,20,In-house Development RJL,In-house Development RAS
+53,55,43,In-house Development RJL,In-house Development RPY
+53,56,34,In-house Development RJL,Multiple RXN
+53,57,16,In-house Development RJL,Paper RYR
+53,58,54,In-house Development RJL,Paper RCX
+53,60,20,In-house Development RJL,Paper RF4
+53,61,291,In-house Development RJL,Epic Systems
+53,62,29,In-house Development RJL,Paper RNL
+53,63,14,In-house Development RJL,Paper RH8
+53,64,49,In-house Development RJL,Paper RDU
+53,65,12,In-house Development RJL,Paper RJN
+53,66,25,In-house Development RJL,Paper RK9
+53,67,33,In-house Development RJL,Multiple REM
+53,68,2657,In-house Development RJL,In-house Development RR8
+53,69,27,In-house Development RJL,Multiple RA9
+53,70,58,In-house Development RJL,EMIS Health
+53,71,155,In-house Development RJL,Multiple RGN
+53,72,17,In-house Development RJL,Multiple RAJ
+53,73,17,In-house Development RJL,Paper RC1
+53,74,28,In-house Development RJL,Paper RPA
+53,75,19179,In-house Development RJL,Paper RWD
+53,76,403,In-house Development RJL,Paper RWE
+53,77,14,In-house Development RJL,Paper RAP
+53,78,5639,In-house Development RJL,Paper RP5
+53,79,211,In-house Development RJL,Allscripts
+53,80,136,In-house Development RJL,Paper RTR
+53,81,28,In-house Development RJL,In-house Development RN5
+53,82,62,In-house Development RJL,Advanced
+54,55,330,In-house Development RAS,In-house Development RPY
+54,56,11,In-house Development RAS,Multiple RXN
+54,57,117,In-house Development RAS,Paper RYR
+54,58,16,In-house Development RAS,Paper RCX
+54,59,60,In-house Development RAS,Paper RP4
+54,60,190,In-house Development RAS,Paper RF4
+54,61,4426,In-house Development RAS,Epic Systems
+54,62,14,In-house Development RAS,Paper RNL
+54,63,59,In-house Development RAS,Paper RH8
+54,64,5391,In-house Development RAS,Paper RDU
+54,65,3,In-house Development RAS,Paper RJN
+54,66,58,In-house Development RAS,Paper RK9
+54,67,14,In-house Development RAS,Multiple REM
+54,68,43,In-house Development RAS,In-house Development RR8
+54,69,43,In-house Development RAS,Multiple RA9
+54,70,186,In-house Development RAS,EMIS Health
+54,71,62,In-house Development RAS,Multiple RGN
+54,72,32,In-house Development RAS,Multiple RAJ
+54,73,69,In-house Development RAS,Paper RC1
+54,74,50,In-house Development RAS,Paper RPA
+54,75,54,In-house Development RAS,Paper RWD
+54,76,115,In-house Development RAS,Paper RWE
+54,77,155,In-house Development RAS,Paper RAP
+54,78,19,In-house Development RAS,Paper RP5
+54,79,543,In-house Development RAS,Allscripts
+54,80,22,In-house Development RAS,Paper RTR
+54,81,94,In-house Development RAS,In-house Development RN5
+54,82,86,In-house Development RAS,Advanced
+55,56,18,In-house Development RPY,Multiple RXN
+55,57,1166,In-house Development RPY,Paper RYR
+55,58,115,In-house Development RPY,Paper RCX
+55,59,20,In-house Development RPY,Paper RP4
+55,60,637,In-house Development RPY,Paper RF4
+55,61,3043,In-house Development RPY,Epic Systems
+55,62,18,In-house Development RPY,Paper RNL
+55,63,223,In-house Development RPY,Paper RH8
+55,64,1767,In-house Development RPY,Paper RDU
+55,65,9,In-house Development RPY,Paper RJN
+55,66,179,In-house Development RPY,Paper RK9
+55,67,26,In-house Development RPY,Multiple REM
+55,68,102,In-house Development RPY,In-house Development RR8
+55,69,148,In-house Development RPY,Multiple RA9
+55,70,715,In-house Development RPY,EMIS Health
+55,71,190,In-house Development RPY,Multiple RGN
+55,72,443,In-house Development RPY,Multiple RAJ
+55,73,95,In-house Development RPY,Paper RC1
+55,74,584,In-house Development RPY,Paper RPA
+55,75,179,In-house Development RPY,Paper RWD
+55,76,224,In-house Development RPY,Paper RWE
+55,77,348,In-house Development RPY,Paper RAP
+55,78,22,In-house Development RPY,Paper RP5
+55,79,2828,In-house Development RPY,Allscripts
+55,80,55,In-house Development RPY,Paper RTR
+55,81,541,In-house Development RPY,In-house Development RN5
+55,82,154,In-house Development RPY,Advanced
+56,57,10,Multiple RXN,Paper RYR
+56,58,8,Multiple RXN,Paper RCX
+56,59,2,Multiple RXN,Paper RP4
+56,60,45,Multiple RXN,Paper RF4
+56,61,219,Multiple RXN,Epic Systems
+56,62,578,Multiple RXN,Paper RNL
+56,63,31,Multiple RXN,Paper RH8
+56,64,45,Multiple RXN,Paper RDU
+56,65,63,Multiple RXN,Paper RJN
+56,66,12,Multiple RXN,Paper RK9
+56,67,1327,Multiple RXN,Multiple REM
+56,68,735,Multiple RXN,In-house Development RR8
+56,69,16,Multiple RXN,Multiple RA9
+56,70,56,Multiple RXN,EMIS Health
+56,71,32,Multiple RXN,Multiple RGN
+56,72,11,Multiple RXN,Multiple RAJ
+56,73,16,Multiple RXN,Paper RC1
+56,74,11,Multiple RXN,Paper RPA
+56,75,52,Multiple RXN,Paper RWD
+56,76,86,Multiple RXN,Paper RWE
+56,77,8,Multiple RXN,Paper RAP
+56,78,62,Multiple RXN,Paper RP5
+56,79,15370,Multiple RXN,Allscripts
+56,80,103,Multiple RXN,Paper RTR
+56,81,34,Multiple RXN,In-house Development RN5
+56,82,85,Multiple RXN,Advanced
+57,58,38,Paper RYR,Paper RCX
+57,59,15,Paper RYR,Paper RP4
+57,60,91,Paper RYR,Paper RF4
+57,61,2582,Paper RYR,Epic Systems
+57,62,26,Paper RYR,Paper RNL
+57,63,124,Paper RYR,Paper RH8
+57,64,923,Paper RYR,Paper RDU
+57,65,12,Paper RYR,Paper RJN
+57,66,93,Paper RYR,Paper RK9
+57,67,17,Paper RYR,Multiple REM
+57,68,37,Paper RYR,In-house Development RR8
+57,69,74,Paper RYR,Multiple RA9
+57,70,5354,Paper RYR,EMIS Health
+57,71,66,Paper RYR,Multiple RGN
+57,72,55,Paper RYR,Multiple RAJ
+57,73,26,Paper RYR,Paper RC1
+57,74,192,Paper RYR,Paper RPA
+57,75,71,Paper RYR,Paper RWD
+57,76,90,Paper RYR,Paper RWE
+57,77,39,Paper RYR,Paper RAP
+57,78,27,Paper RYR,Paper RP5
+57,79,1521,Paper RYR,Allscripts
+57,80,25,Paper RYR,Paper RTR
+57,81,573,Paper RYR,In-house Development RN5
+57,82,74,Paper RYR,Advanced
+58,59,48,Paper RCX,Paper RP4
+58,60,82,Paper RCX,Paper RF4
+58,61,19731,Paper RCX,Epic Systems
+58,62,21,Paper RCX,Paper RNL
+58,63,25,Paper RCX,Paper RH8
+58,64,53,Paper RCX,Paper RDU
+58,65,7,Paper RCX,Paper RJN
+58,66,15,Paper RCX,Paper RK9
+58,67,6,Paper RCX,Multiple REM
+58,68,56,Paper RCX,In-house Development RR8
+58,69,15,Paper RCX,Multiple RA9
+58,70,50,Paper RCX,EMIS Health
+58,71,5486,Paper RCX,Multiple RGN
+58,72,62,Paper RCX,Multiple RAJ
+58,73,80,Paper RCX,Paper RC1
+58,74,32,Paper RCX,Paper RPA
+58,75,3453,Paper RCX,Paper RWD
+58,76,209,Paper RCX,Paper RWE
+58,77,38,Paper RCX,Paper RAP
+58,78,24,Paper RCX,Paper RP5
+58,79,147,Paper RCX,Allscripts
+58,80,21,Paper RCX,Paper RTR
+58,81,35,Paper RCX,In-house Development RN5
+58,82,37,Paper RCX,Advanced
+59,60,627,Paper RP4,Paper RF4
+59,61,1780,Paper RP4,Epic Systems
+59,63,7,Paper RP4,Paper RH8
+59,64,43,Paper RP4,Paper RDU
+59,65,1,Paper RP4,Paper RJN
+59,66,12,Paper RP4,Paper RK9
+59,68,4,Paper RP4,In-house Development RR8
+59,69,5,Paper RP4,Multiple RA9
+59,70,30,Paper RP4,EMIS Health
+59,71,196,Paper RP4,Multiple RGN
+59,72,606,Paper RP4,Multiple RAJ
+59,73,109,Paper RP4,Paper RC1
+59,74,47,Paper RP4,Paper RPA
+59,75,6,Paper RP4,Paper RWD
+59,76,10,Paper RP4,Paper RWE
+59,77,982,Paper RP4,Paper RAP
+59,79,82,Paper RP4,Allscripts
+59,80,2,Paper RP4,Paper RTR
+59,81,2,Paper RP4,In-house Development RN5
+59,82,18,Paper RP4,Advanced
+60,61,13840,Paper RF4,Epic Systems
+60,62,16,Paper RF4,Paper RNL
+60,63,44,Paper RF4,Paper RH8
+60,64,214,Paper RF4,Paper RDU
+60,65,4,Paper RF4,Paper RJN
+60,66,61,Paper RF4,Paper RK9
+60,67,18,Paper RF4,Multiple REM
+60,68,71,Paper RF4,In-house Development RR8
+60,69,40,Paper RF4,Multiple RA9
+60,70,216,Paper RF4,EMIS Health
+60,71,143,Paper RF4,Multiple RGN
+60,72,6663,Paper RF4,Multiple RAJ
+60,73,64,Paper RF4,Paper RC1
+60,74,323,Paper RF4,Paper RPA
+60,75,79,Paper RF4,Paper RWD
+60,76,218,Paper RF4,Paper RWE
+60,77,2270,Paper RF4,Paper RAP
+60,78,46,Paper RF4,Paper RP5
+60,79,2605,Paper RF4,Allscripts
+60,80,33,Paper RF4,Paper RTR
+60,81,47,Paper RF4,In-house Development RN5
+60,82,145,Paper RF4,Advanced
+61,62,193,Epic Systems,Paper RNL
+61,63,761,Epic Systems,Paper RH8
+61,64,5138,Epic Systems,Paper RDU
+61,65,104,Epic Systems,Paper RJN
+61,66,599,Epic Systems,Paper RK9
+61,67,163,Epic Systems,Multiple REM
+61,68,898,Epic Systems,In-house Development RR8
+61,69,443,Epic Systems,Multiple RA9
+61,70,2477,Epic Systems,EMIS Health
+61,71,58697,Epic Systems,Multiple RGN
+61,72,4998,Epic Systems,Multiple RAJ
+61,73,15621,Epic Systems,Paper RC1
+61,74,2402,Epic Systems,Paper RPA
+61,75,2710,Epic Systems,Paper RWD
+61,76,1987,Epic Systems,Paper RWE
+61,77,28940,Epic Systems,Paper RAP
+61,78,293,Epic Systems,Paper RP5
+61,79,13352,Epic Systems,Allscripts
+61,80,360,Epic Systems,Paper RTR
+61,81,1398,Epic Systems,In-house Development RN5
+61,82,1126,Epic Systems,Advanced
+62,63,24,Paper RNL,Paper RH8
+62,64,44,Paper RNL,Paper RDU
+62,65,23,Paper RNL,Paper RJN
+62,66,18,Paper RNL,Paper RK9
+62,67,145,Paper RNL,Multiple REM
+62,68,244,Paper RNL,In-house Development RR8
+62,69,15,Paper RNL,Multiple RA9
+62,70,60,Paper RNL,EMIS Health
+62,71,33,Paper RNL,Multiple RGN
+62,72,5,Paper RNL,Multiple RAJ
+62,73,10,Paper RNL,Paper RC1
+62,74,5,Paper RNL,Paper RPA
+62,75,62,Paper RNL,Paper RWD
+62,76,46,Paper RNL,Paper RWE
+62,77,4,Paper RNL,Paper RAP
+62,78,43,Paper RNL,Paper RP5
+62,79,1757,Paper RNL,Allscripts
+62,80,1414,Paper RNL,Paper RTR
+62,81,12,Paper RNL,In-house Development RN5
+62,82,40,Paper RNL,Advanced
+63,64,243,Paper RH8,Paper RDU
+63,65,19,Paper RH8,Paper RJN
+63,66,10530,Paper RH8,Paper RK9
+63,67,14,Paper RH8,Multiple REM
+63,68,80,Paper RH8,In-house Development RR8
+63,69,21669,Paper RH8,Multiple RA9
+63,70,623,Paper RH8,EMIS Health
+63,71,55,Paper RH8,Multiple RGN
+63,72,44,Paper RH8,Multiple RAJ
+63,73,25,Paper RH8,Paper RC1
+63,74,88,Paper RH8,Paper RPA
+63,75,53,Paper RH8,Paper RWD
+63,76,152,Paper RH8,Paper RWE
+63,77,15,Paper RH8,Paper RAP
+63,78,25,Paper RH8,Paper RP5
+63,79,391,Paper RH8,Allscripts
+63,80,25,Paper RH8,Paper RTR
+63,81,226,Paper RH8,In-house Development RN5
+63,82,143,Paper RH8,Advanced
+64,65,33,Paper RDU,Paper RJN
+64,66,187,Paper RDU,Paper RK9
+64,67,19,Paper RDU,Multiple REM
+64,68,113,Paper RDU,In-house Development RR8
+64,69,176,Paper RDU,Multiple RA9
+64,70,2048,Paper RDU,EMIS Health
+64,71,127,Paper RDU,Multiple RGN
+64,72,97,Paper RDU,Multiple RAJ
+64,73,87,Paper RDU,Paper RC1
+64,74,178,Paper RDU,Paper RPA
+64,75,146,Paper RDU,Paper RWD
+64,76,211,Paper RDU,Paper RWE
+64,77,115,Paper RDU,Paper RAP
+64,78,70,Paper RDU,Paper RP5
+64,79,1627,Paper RDU,Allscripts
+64,80,113,Paper RDU,Paper RTR
+64,81,13299,Paper RDU,In-house Development RN5
+64,82,191,Paper RDU,Advanced
+65,66,11,Paper RJN,Paper RK9
+65,67,163,Paper RJN,Multiple REM
+65,68,131,Paper RJN,In-house Development RR8
+65,69,22,Paper RJN,Multiple RA9
+65,70,15,Paper RJN,EMIS Health
+65,71,22,Paper RJN,Multiple RGN
+65,72,2,Paper RJN,Multiple RAJ
+65,73,12,Paper RJN,Paper RC1
+65,74,4,Paper RJN,Paper RPA
+65,75,23,Paper RJN,Paper RWD
+65,76,36,Paper RJN,Paper RWE
+65,77,6,Paper RJN,Paper RAP
+65,78,22,Paper RJN,Paper RP5
+65,79,7858,Paper RJN,Allscripts
+65,80,23,Paper RJN,Paper RTR
+65,81,20,Paper RJN,In-house Development RN5
+65,82,26,Paper RJN,Advanced
+66,67,31,Paper RK9,Multiple REM
+66,68,66,Paper RK9,In-house Development RR8
+66,69,10695,Paper RK9,Multiple RA9
+66,70,427,Paper RK9,EMIS Health
+66,71,49,Paper RK9,Multiple RGN
+66,72,27,Paper RK9,Multiple RAJ
+66,73,36,Paper RK9,Paper RC1
+66,74,40,Paper RK9,Paper RPA
+66,75,67,Paper RK9,Paper RWD
+66,76,74,Paper RK9,Paper RWE
+66,77,25,Paper RK9,Paper RAP
+66,78,38,Paper RK9,Paper RP5
+66,79,356,Paper RK9,Allscripts
+66,80,58,Paper RK9,Paper RTR
+66,81,169,Paper RK9,In-house Development RN5
+66,82,85,Paper RK9,Advanced
+67,68,152,Multiple REM,In-house Development RR8
+67,69,18,Multiple REM,Multiple RA9
+67,70,43,Multiple REM,EMIS Health
+67,71,17,Multiple REM,Multiple RGN
+67,72,7,Multiple REM,Multiple RAJ
+67,73,5,Multiple REM,Paper RC1
+67,74,10,Multiple REM,Paper RPA
+67,75,41,Multiple REM,Paper RWD
+67,76,56,Multiple REM,Paper RWE
+67,77,7,Multiple REM,Paper RAP
+67,78,21,Multiple REM,Paper RP5
+67,79,17938,Multiple REM,Allscripts
+67,80,50,Multiple REM,Paper RTR
+67,81,12,Multiple REM,In-house Development RN5
+67,82,41,Multiple REM,Advanced
+68,69,37,In-house Development RR8,Multiple RA9
+68,70,125,In-house Development RR8,EMIS Health
+68,71,128,In-house Development RR8,Multiple RGN
+68,72,29,In-house Development RR8,Multiple RAJ
+68,73,28,In-house Development RR8,Paper RC1
+68,74,30,In-house Development RR8,Paper RPA
+68,75,776,In-house Development RR8,Paper RWD
+68,76,319,In-house Development RR8,Paper RWE
+68,77,66,In-house Development RR8,Paper RAP
+68,78,2452,In-house Development RR8,Paper RP5
+68,79,1689,In-house Development RR8,Allscripts
+68,80,1852,In-house Development RR8,Paper RTR
+68,81,68,In-house Development RR8,In-house Development RN5
+68,82,231,In-house Development RR8,Advanced
+69,70,322,Multiple RA9,EMIS Health
+69,71,56,Multiple RA9,Multiple RGN
+69,72,40,Multiple RA9,Multiple RAJ
+69,73,23,Multiple RA9,Paper RC1
+69,74,47,Multiple RA9,Paper RPA
+69,75,64,Multiple RA9,Paper RWD
+69,76,131,Multiple RA9,Paper RWE
+69,77,19,Multiple RA9,Paper RAP
+69,78,45,Multiple RA9,Paper RP5
+69,79,187,Multiple RA9,Allscripts
+69,80,27,Multiple RA9,Paper RTR
+69,81,135,Multiple RA9,In-house Development RN5
+69,82,154,Multiple RA9,Advanced
+70,71,133,EMIS Health,Multiple RGN
+70,72,80,EMIS Health,Multiple RAJ
+70,73,65,EMIS Health,Paper RC1
+70,74,117,EMIS Health,Paper RPA
+70,75,133,EMIS Health,Paper RWD
+70,76,198,EMIS Health,Paper RWE
+70,77,103,EMIS Health,Paper RAP
+70,78,59,EMIS Health,Paper RP5
+70,79,1039,EMIS Health,Allscripts
+70,80,69,EMIS Health,Paper RTR
+70,81,51969,EMIS Health,In-house Development RN5
+70,82,171,EMIS Health,Advanced
+71,72,77,Multiple RGN,Multiple RAJ
+71,73,1548,Multiple RGN,Paper RC1
+71,74,64,Multiple RGN,Paper RPA
+71,75,12976,Multiple RGN,Paper RWD
+71,76,7123,Multiple RGN,Paper RWE
+71,77,105,Multiple RGN,Paper RAP
+71,78,81,Multiple RGN,Paper RP5
+71,79,412,Multiple RGN,Allscripts
+71,80,83,Multiple RGN,Paper RTR
+71,81,65,Multiple RGN,In-house Development RN5
+71,82,169,Multiple RGN,Advanced
+72,73,32,Multiple RAJ,Paper RC1
+72,74,132,Multiple RAJ,Paper RPA
+72,75,63,Multiple RAJ,Paper RWD
+72,76,48,Multiple RAJ,Paper RWE
+72,77,154,Multiple RAJ,Paper RAP
+72,78,21,Multiple RAJ,Paper RP5
+72,79,774,Multiple RAJ,Allscripts
+72,80,16,Multiple RAJ,Paper RTR
+72,81,52,Multiple RAJ,In-house Development RN5
+72,82,47,Multiple RAJ,Advanced
+73,74,19,Paper RC1,Paper RPA
+73,75,115,Paper RC1,Paper RWD
+73,76,214,Paper RC1,Paper RWE
+73,77,71,Paper RC1,Paper RAP
+73,78,29,Paper RC1,Paper RP5
+73,79,264,Paper RC1,Allscripts
+73,80,23,Paper RC1,Paper RTR
+73,81,88,Paper RC1,In-house Development RN5
+73,82,107,Paper RC1,Advanced
+74,75,60,Paper RPA,Paper RWD
+74,76,88,Paper RPA,Paper RWE
+74,77,82,Paper RPA,Paper RAP
+74,78,33,Paper RPA,Paper RP5
+74,79,13185,Paper RPA,Allscripts
+74,80,31,Paper RPA,Paper RTR
+74,81,58,Paper RPA,In-house Development RN5
+74,82,65,Paper RPA,Advanced
+75,76,10139,Paper RWD,Paper RWE
+75,77,36,Paper RWD,Paper RAP
+75,78,2753,Paper RWD,Paper RP5
+75,79,386,Paper RWD,Allscripts
+75,80,143,Paper RWD,Paper RTR
+75,81,68,Paper RWD,In-house Development RN5
+75,82,253,Paper RWD,Advanced
+76,77,158,Paper RWE,Paper RAP
+76,78,233,Paper RWE,Paper RP5
+76,79,597,Paper RWE,Allscripts
+76,80,116,Paper RWE,Paper RTR
+76,81,117,Paper RWE,In-house Development RN5
+76,82,10069,Paper RWE,Advanced
+77,78,27,Paper RAP,Paper RP5
+77,79,1020,Paper RAP,Allscripts
+77,80,20,Paper RAP,Paper RTR
+77,81,40,Paper RAP,In-house Development RN5
+77,82,71,Paper RAP,Advanced
+78,79,171,Paper RP5,Allscripts
+78,80,234,Paper RP5,Paper RTR
+78,81,38,Paper RP5,In-house Development RN5
+78,82,66,Paper RP5,Advanced
+79,80,259,Allscripts,Paper RTR
+79,81,762,Allscripts,In-house Development RN5
+79,82,476,Allscripts,Advanced
+80,81,70,Paper RTR,In-house Development RN5
+80,82,66,Paper RTR,Advanced
+81,82,101,In-house Development RN5,Advanced
